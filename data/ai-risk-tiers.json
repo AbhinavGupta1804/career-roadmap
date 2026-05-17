@@ -1,0 +1,963 @@
+{
+  "version": "2026.1",
+  "tier_definitions": {
+    "1": {
+      "label": "AI Tailwind",
+      "description": "Role created or expanded by AI. Demand growing."
+    },
+    "2": {
+      "label": "AI-Augmented",
+      "description": "Human + AI beats either alone. Lazy practitioners lose."
+    },
+    "3": {
+      "label": "Partially Displaced",
+      "description": "Entry tasks automated; senior roles safer. Harder to break in."
+    },
+    "4": {
+      "label": "Heavily Disrupted",
+      "description": "Most roles automated in 2\u20134 years."
+    },
+    "5": {
+      "label": "Sunset",
+      "description": "Wiped out for freshers within ~5 years."
+    }
+  },
+  "careers": {
+    "ml-engineer": {
+      "tier": 1,
+      "replaces": [
+        "Manual feature tuning only",
+        "Notebook-only prototyping"
+      ],
+      "amplifies": [
+        "Experiment velocity",
+        "Production ML systems"
+      ],
+      "evolved_role_2029": "AI Systems Engineer",
+      "survival_skills": [
+        "MLOps",
+        "Evaluation design",
+        "System thinking"
+      ]
+    },
+    "data-scientist": {
+      "tier": 2,
+      "replaces": [
+        "Exploratory analysis busywork"
+      ],
+      "amplifies": [
+        "Hypothesis framing",
+        "Experiment design"
+      ],
+      "evolved_role_2029": "Decision Scientist",
+      "survival_skills": [
+        "Business communication",
+        "Causal thinking"
+      ]
+    },
+    "data-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Ad-hoc SQL generation",
+        "Basic charting"
+      ],
+      "amplifies": [
+        "Metric definition",
+        "Storytelling"
+      ],
+      "evolved_role_2029": "Analytics Strategist",
+      "survival_skills": [
+        "Domain knowledge",
+        "Stakeholder influence"
+      ]
+    },
+    "analytics-engineer": {
+      "tier": 1,
+      "replaces": [
+        "Hand-written pipeline glue"
+      ],
+      "amplifies": [
+        "Reliable data models",
+        "Semantic layers"
+      ],
+      "evolved_role_2029": "Data Platform Engineer",
+      "survival_skills": [
+        "dbt",
+        "Data contracts",
+        "SQL depth"
+      ]
+    },
+    "data-engineer": {
+      "tier": 1,
+      "replaces": [
+        "Boilerplate ETL scripts"
+      ],
+      "amplifies": [
+        "Pipeline reliability",
+        "Cost optimization"
+      ],
+      "evolved_role_2029": "Data Platform Architect",
+      "survival_skills": [
+        "Streaming",
+        "Governance",
+        "Cloud"
+      ]
+    },
+    "mlops-engineer": {
+      "tier": 1,
+      "replaces": [
+        "Manual deploy steps"
+      ],
+      "amplifies": [
+        "Automated ML lifecycle"
+      ],
+      "evolved_role_2029": "AI Platform Engineer",
+      "survival_skills": [
+        "K8s",
+        "Observability",
+        "Model governance"
+      ]
+    },
+    "full-stack-developer": {
+      "tier": 2,
+      "replaces": [
+        "CRUD scaffolding",
+        "Simple UI generation"
+      ],
+      "amplifies": [
+        "End-to-end ownership",
+        "Product judgment"
+      ],
+      "evolved_role_2029": "Product Engineer",
+      "survival_skills": [
+        "System design",
+        "UX sense"
+      ]
+    },
+    "frontend-developer": {
+      "tier": 3,
+      "replaces": [
+        "Pixel-perfect static pages",
+        "Basic component boilerplate"
+      ],
+      "amplifies": [
+        "Complex interaction design",
+        "Performance"
+      ],
+      "evolved_role_2029": "Frontend Platform Engineer",
+      "survival_skills": [
+        "Accessibility",
+        "Design systems",
+        "Core Web Vitals"
+      ]
+    },
+    "backend-developer": {
+      "tier": 2,
+      "replaces": [
+        "Boilerplate API code"
+      ],
+      "amplifies": [
+        "Distributed systems",
+        "Security"
+      ],
+      "evolved_role_2029": "Backend Platform Engineer",
+      "survival_skills": [
+        "System design",
+        "Databases",
+        "Auth"
+      ]
+    },
+    "mobile-developer": {
+      "tier": 2,
+      "replaces": [
+        "Simple UI screens"
+      ],
+      "amplifies": [
+        "Native performance",
+        "Offline-first UX"
+      ],
+      "evolved_role_2029": "Mobile Platform Engineer",
+      "survival_skills": [
+        "Architecture",
+        "Store policies"
+      ]
+    },
+    "devops-engineer": {
+      "tier": 2,
+      "replaces": [
+        "Repetitive infra scripts"
+      ],
+      "amplifies": [
+        "Reliability engineering",
+        "Incident response"
+      ],
+      "evolved_role_2029": "Platform Reliability Engineer",
+      "survival_skills": [
+        "SRE practices",
+        "IaC",
+        "Security"
+      ]
+    },
+    "cloud-engineer": {
+      "tier": 1,
+      "replaces": [
+        "Manual console clicks"
+      ],
+      "amplifies": [
+        "Architecture design",
+        "FinOps"
+      ],
+      "evolved_role_2029": "Cloud Architect",
+      "survival_skills": [
+        "Multi-cloud",
+        "Security",
+        "Automation"
+      ]
+    },
+    "site-reliability-engineer": {
+      "tier": 1,
+      "replaces": [
+        "Manual runbooks only"
+      ],
+      "amplifies": [
+        "Automation",
+        "Observability"
+      ],
+      "evolved_role_2029": "Reliability Architect",
+      "survival_skills": [
+        "SLO design",
+        "Chaos engineering"
+      ]
+    },
+    "cybersecurity-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Tier-1 alert triage"
+      ],
+      "amplifies": [
+        "Threat hunting",
+        "Incident leadership"
+      ],
+      "evolved_role_2029": "Security Operations Lead",
+      "survival_skills": [
+        "Detection engineering",
+        "GRC awareness"
+      ]
+    },
+    "penetration-tester": {
+      "tier": 2,
+      "replaces": [
+        "Checklist scanning only"
+      ],
+      "amplifies": [
+        "Creative attack paths",
+        "Risk communication"
+      ],
+      "evolved_role_2029": "Offensive Security Consultant",
+      "survival_skills": [
+        "AppSec depth",
+        "Red team ops"
+      ]
+    },
+    "ui-ux-designer": {
+      "tier": 2,
+      "replaces": [
+        "Generic wireframes",
+        "Stock UI kits"
+      ],
+      "amplifies": [
+        "Research-led design",
+        "Systems thinking"
+      ],
+      "evolved_role_2029": "Product Design Lead",
+      "survival_skills": [
+        "Research",
+        "Interaction design"
+      ]
+    },
+    "ai-product-designer": {
+      "tier": 1,
+      "replaces": [
+        "Static mockups only"
+      ],
+      "amplifies": [
+        "Agent UX",
+        "Trust design"
+      ],
+      "evolved_role_2029": "AI Interaction Designer",
+      "survival_skills": [
+        "Model behavior literacy",
+        "Prototyping"
+      ]
+    },
+    "product-manager-tech": {
+      "tier": 2,
+      "replaces": [
+        "Status doc writing"
+      ],
+      "amplifies": [
+        "Prioritization",
+        "User insight"
+      ],
+      "evolved_role_2029": "AI Product Lead",
+      "survival_skills": [
+        "Data literacy",
+        "Technical fluency"
+      ]
+    },
+    "qa-automation-engineer": {
+      "tier": 3,
+      "replaces": [
+        "Manual regression only"
+      ],
+      "amplifies": [
+        "Test architecture",
+        "CI quality gates"
+      ],
+      "evolved_role_2029": "Quality Engineering Lead",
+      "survival_skills": [
+        "Automation frameworks",
+        "API testing"
+      ]
+    },
+    "embedded-systems-engineer": {
+      "tier": 2,
+      "replaces": [
+        "Simple firmware templates"
+      ],
+      "amplifies": [
+        "Hardware-software co-design"
+      ],
+      "evolved_role_2029": "Embedded Platform Engineer",
+      "survival_skills": [
+        "RTOS",
+        "Debugging",
+        "C/C++"
+      ]
+    },
+    "game-developer": {
+      "tier": 2,
+      "replaces": [
+        "Asset placement busywork"
+      ],
+      "amplifies": [
+        "Gameplay feel",
+        "Performance"
+      ],
+      "evolved_role_2029": "Technical Game Designer",
+      "survival_skills": [
+        "Engine depth",
+        "Math"
+      ]
+    },
+    "robotics-software-engineer": {
+      "tier": 1,
+      "replaces": [
+        "Teleoperation scripts only"
+      ],
+      "amplifies": [
+        "Perception + planning stacks"
+      ],
+      "evolved_role_2029": "Autonomy Engineer",
+      "survival_skills": [
+        "ROS2",
+        "CV",
+        "Controls basics"
+      ]
+    },
+    "technical-writer": {
+      "tier": 2,
+      "replaces": [
+        "First-draft docs"
+      ],
+      "amplifies": [
+        "Information architecture",
+        "Developer empathy"
+      ],
+      "evolved_role_2029": "Developer Experience Lead",
+      "survival_skills": [
+        "API clarity",
+        "Docs-as-code"
+      ]
+    },
+    "business-analyst-tech": {
+      "tier": 2,
+      "replaces": [
+        "Slide formatting",
+        "Basic reporting"
+      ],
+      "amplifies": [
+        "Requirements clarity",
+        "Process redesign"
+      ],
+      "evolved_role_2029": "Product Operations Analyst",
+      "survival_skills": [
+        "SQL",
+        "Domain expertise"
+      ]
+    },
+    "database-administrator": {
+      "tier": 3,
+      "replaces": [
+        "Routine backup scripts"
+      ],
+      "amplifies": [
+        "Performance tuning",
+        "HA design"
+      ],
+      "evolved_role_2029": "Data Reliability Engineer",
+      "survival_skills": [
+        "PostgreSQL internals",
+        "Cloud DB"
+      ]
+    },
+    "network-engineer": {
+      "tier": 2,
+      "replaces": [
+        "Cable-label busywork"
+      ],
+      "amplifies": [
+        "Architecture",
+        "Automation"
+      ],
+      "evolved_role_2029": "Network Automation Engineer",
+      "survival_skills": [
+        "Python",
+        "SDN basics"
+      ]
+    },
+    "solutions-engineer": {
+      "tier": 2,
+      "replaces": [
+        "Demo script reading"
+      ],
+      "amplifies": [
+        "Technical discovery",
+        "POC design"
+      ],
+      "evolved_role_2029": "Customer Engineering Lead",
+      "survival_skills": [
+        "APIs",
+        "Presentation"
+      ]
+    },
+    "computer-vision-engineer": {
+      "tier": 1,
+      "replaces": [
+        "Labeling-only workflows"
+      ],
+      "amplifies": [
+        "Model + edge deployment"
+      ],
+      "evolved_role_2029": "Vision Systems Engineer",
+      "survival_skills": [
+        "CV pipelines",
+        "Deployment"
+      ]
+    },
+    "nlp-engineer": {
+      "tier": 1,
+      "replaces": [
+        "Simple chatbot wrappers"
+      ],
+      "amplifies": [
+        "RAG systems",
+        "Evaluation"
+      ],
+      "evolved_role_2029": "LLM Application Engineer",
+      "survival_skills": [
+        "Prompt systems",
+        "Safety"
+      ]
+    },
+    "iot-developer": {
+      "tier": 2,
+      "replaces": [
+        "Basic sensor polling scripts"
+      ],
+      "amplifies": [
+        "Edge + cloud integration"
+      ],
+      "evolved_role_2029": "Edge IoT Engineer",
+      "survival_skills": [
+        "MQTT",
+        "Security",
+        "Embedded Linux"
+      ]
+    },
+    "generic-content-writer": {
+      "tier": 4,
+      "replaces": [
+        "Bulk blog generation",
+        "Outline spinning",
+        "Generic listicles"
+      ],
+      "amplifies": [
+        "Editorial judgment",
+        "Brand voice",
+        "Original reporting"
+      ],
+      "evolved_role_2029": "Content Strategist (AI-assisted)",
+      "survival_skills": [
+        "Niche expertise",
+        "Interview skills",
+        "Fact-checking"
+      ]
+    },
+    "junior-graphic-designer": {
+      "tier": 4,
+      "replaces": [
+        "Template resizing",
+        "Stock asset assembly",
+        "Basic social banners"
+      ],
+      "amplifies": [
+        "Brand systems",
+        "Motion storytelling",
+        "Design research"
+      ],
+      "evolved_role_2029": "Visual Designer (AI-native workflows)",
+      "survival_skills": [
+        "Figma systems",
+        "Design thinking",
+        "Cross-functional collaboration"
+      ]
+    },
+    "manual-qa-tester": {
+      "tier": 4,
+      "replaces": [
+        "Repetitive click-path regression",
+        "Screenshot comparison"
+      ],
+      "amplifies": [
+        "Test strategy",
+        "Exploratory testing",
+        "Production incident learning"
+      ],
+      "evolved_role_2029": "Quality Engineer",
+      "survival_skills": [
+        "Test automation",
+        "API testing",
+        "CI/CD quality gates"
+      ]
+    },
+    "tier-1-tech-support": {
+      "tier": 4,
+      "replaces": [
+        "Scripted troubleshooting",
+        "Password resets",
+        "Ticket categorization"
+      ],
+      "amplifies": [
+        "Complex diagnostics",
+        "Customer empathy",
+        "Root-cause analysis"
+      ],
+      "evolved_role_2029": "Technical Support Engineer (L2/L3)",
+      "survival_skills": [
+        "Systems knowledge",
+        "Networking basics",
+        "Documentation"
+      ]
+    },
+    "bpo-voice-agent": {
+      "tier": 5,
+      "replaces": [
+        "Script reading",
+        "Outbound dialing",
+        "Basic objection handling"
+      ],
+      "amplifies": [
+        "Consultative sales",
+        "Domain expertise"
+      ],
+      "evolved_role_2029": "Customer Success (product-led)",
+      "survival_skills": [
+        "Upskilling into tech support or inside sales with product knowledge"
+      ]
+    },
+    "generic-seo-writer": {
+      "tier": 5,
+      "replaces": [
+        "Mass-produced SEO articles",
+        "AI-generated filler content"
+      ],
+      "amplifies": [
+        "Technical SEO strategy",
+        "Product-led content"
+      ],
+      "evolved_role_2029": "SEO Content Strategist",
+      "survival_skills": [
+        "Analytics",
+        "Subject-matter depth",
+        "Distribution"
+      ]
+    },
+    "microstock-design-seller": {
+      "tier": 5,
+      "replaces": [
+        "$5 logo templates",
+        "Stock icon packs",
+        "AI-generated assets"
+      ],
+      "amplifies": [
+        "Brand identity systems",
+        "Product design"
+      ],
+      "evolved_role_2029": "Brand / Product Designer",
+      "survival_skills": [
+        "Portfolio depth",
+        "Design systems",
+        "UX fundamentals"
+      ]
+    },
+    "data-entry-operator": {
+      "tier": 5,
+      "replaces": [
+        "Form filling",
+        "Copy-paste between systems",
+        "OCR cleanup"
+      ],
+      "amplifies": [
+        "Process automation",
+        "Data operations"
+      ],
+      "evolved_role_2029": "Data Operations / Analyst",
+      "survival_skills": [
+        "SQL",
+        "Python automation",
+        "Excel power-user skills"
+      ]
+    },
+    "blockchain-developer": {
+      "tier": 2,
+      "replaces": [
+        "Copy-paste smart contracts"
+      ],
+      "amplifies": [
+        "Protocol design",
+        "Security review"
+      ],
+      "evolved_role_2029": "Web3 Protocol Engineer",
+      "survival_skills": [
+        "Solidity security",
+        "Economics"
+      ]
+    },
+    "ar-vr-developer": {
+      "tier": 2,
+      "replaces": [
+        "Asset store assembly"
+      ],
+      "amplifies": [
+        "Spatial UX",
+        "Performance"
+      ],
+      "evolved_role_2029": "Immersive Experience Engineer",
+      "survival_skills": [
+        "3D optimization",
+        "Interaction design"
+      ]
+    },
+    "salesforce-developer": {
+      "tier": 2,
+      "replaces": [
+        "Config-only admin tasks"
+      ],
+      "amplifies": [
+        "Integration architecture",
+        "Apex depth"
+      ],
+      "evolved_role_2029": "Salesforce Solution Architect",
+      "survival_skills": [
+        "CRM strategy",
+        "Governance"
+      ]
+    },
+    "sap-functional-consultant": {
+      "tier": 2,
+      "replaces": [
+        "Manual test scripts"
+      ],
+      "amplifies": [
+        "Process redesign",
+        "Change mgmt"
+      ],
+      "evolved_role_2029": "SAP Transformation Lead",
+      "survival_skills": [
+        "Domain expertise",
+        "Stakeholder influence"
+      ]
+    },
+    "digital-marketing-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Report formatting"
+      ],
+      "amplifies": [
+        "Attribution modeling",
+        "Experiment design"
+      ],
+      "evolved_role_2029": "Growth Analytics Lead",
+      "survival_skills": [
+        "SQL",
+        "Storytelling"
+      ]
+    },
+    "growth-marketer-tech": {
+      "tier": 2,
+      "replaces": [
+        "Vanity metrics slides"
+      ],
+      "amplifies": [
+        "Funnel optimization",
+        "Product-led growth"
+      ],
+      "evolved_role_2029": "Head of Growth",
+      "survival_skills": [
+        "Experimentation",
+        "Analytics"
+      ]
+    },
+    "supply-chain-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Spreadsheet busywork"
+      ],
+      "amplifies": [
+        "Forecast accuracy",
+        "Network design"
+      ],
+      "evolved_role_2029": "Supply Chain Strategist",
+      "survival_skills": [
+        "Operations",
+        "SQL"
+      ]
+    },
+    "hr-tech-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Manual HR reports"
+      ],
+      "amplifies": [
+        "People analytics",
+        "Workforce planning"
+      ],
+      "evolved_role_2029": "HR Analytics Lead",
+      "survival_skills": [
+        "HRIS",
+        "Privacy awareness"
+      ]
+    },
+    "fintech-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Basic reconciliation"
+      ],
+      "amplifies": [
+        "Risk modeling",
+        "Product insight"
+      ],
+      "evolved_role_2029": "FinTech Product Strategist",
+      "survival_skills": [
+        "Payments",
+        "Compliance"
+      ]
+    },
+    "quantitative-analyst": {
+      "tier": 1,
+      "replaces": [
+        "Spreadsheet models only"
+      ],
+      "amplifies": [
+        "Statistical rigor",
+        "Backtesting"
+      ],
+      "evolved_role_2029": "Quant Researcher",
+      "survival_skills": [
+        "Python",
+        "Probability"
+      ]
+    },
+    "bi-developer": {
+      "tier": 2,
+      "replaces": [
+        "Static dashboard dumps"
+      ],
+      "amplifies": [
+        "Semantic models",
+        "Self-serve BI"
+      ],
+      "evolved_role_2029": "Analytics Engineering Lead",
+      "survival_skills": [
+        "DAX",
+        "Data modeling"
+      ]
+    },
+    "etl-developer": {
+      "tier": 1,
+      "replaces": [
+        "Hand-written SQL scripts"
+      ],
+      "amplifies": [
+        "Pipeline reliability",
+        "Data quality"
+      ],
+      "evolved_role_2029": "Data Platform Engineer",
+      "survival_skills": [
+        "Airflow",
+        "dbt"
+      ]
+    },
+    "release-engineer": {
+      "tier": 2,
+      "replaces": [
+        "Manual release checklists"
+      ],
+      "amplifies": [
+        "Pipeline automation",
+        "Release governance"
+      ],
+      "evolved_role_2029": "DevOps Lead",
+      "survival_skills": [
+        "CI/CD",
+        "Change management"
+      ]
+    },
+    "platform-engineer": {
+      "tier": 1,
+      "replaces": [
+        "Ticket-driven kubectl"
+      ],
+      "amplifies": [
+        "Platform APIs",
+        "Golden paths"
+      ],
+      "evolved_role_2029": "Internal Platform Architect",
+      "survival_skills": [
+        "K8s",
+        "Developer experience"
+      ]
+    },
+    "api-developer": {
+      "tier": 2,
+      "replaces": [
+        "CRUD boilerplate"
+      ],
+      "amplifies": [
+        "API design",
+        "Versioning"
+      ],
+      "evolved_role_2029": "API Platform Engineer",
+      "survival_skills": [
+        "Auth",
+        "Observability"
+      ]
+    },
+    "developer-advocate": {
+      "tier": 1,
+      "replaces": [
+        "Generic blog posts"
+      ],
+      "amplifies": [
+        "Technical storytelling",
+        "Community trust"
+      ],
+      "evolved_role_2029": "Head of Developer Relations",
+      "survival_skills": [
+        "Demos",
+        "Feedback loops"
+      ]
+    },
+    "scrum-master-tech": {
+      "tier": 2,
+      "replaces": [
+        "Status meeting notes"
+      ],
+      "amplifies": [
+        "Delivery unblock",
+        "Team health"
+      ],
+      "evolved_role_2029": "Agile Coach",
+      "survival_skills": [
+        "Facilitation",
+        "Metrics"
+      ]
+    },
+    "it-auditor": {
+      "tier": 2,
+      "replaces": [
+        "Checkbox audits"
+      ],
+      "amplifies": [
+        "Risk assessment",
+        "Control design"
+      ],
+      "evolved_role_2029": "GRC Lead",
+      "survival_skills": [
+        "Compliance",
+        "Security"
+      ]
+    },
+    "gis-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Map styling only"
+      ],
+      "amplifies": [
+        "Spatial analysis",
+        "Modeling"
+      ],
+      "evolved_role_2029": "Geospatial Data Scientist",
+      "survival_skills": [
+        "Python",
+        "Remote sensing"
+      ]
+    },
+    "bioinformatics-analyst": {
+      "tier": 1,
+      "replaces": [
+        "Pipeline script copying"
+      ],
+      "amplifies": [
+        "Research rigor",
+        "Reproducibility"
+      ],
+      "evolved_role_2029": "Computational Biologist",
+      "survival_skills": [
+        "Stats",
+        "Domain biology"
+      ]
+    },
+    "aerospace-software-engineer": {
+      "tier": 2,
+      "replaces": [
+        "Documentation busywork"
+      ],
+      "amplifies": [
+        "Safety-critical coding",
+        "Verification"
+      ],
+      "evolved_role_2029": "Avionics Software Engineer",
+      "survival_skills": [
+        "RTOS",
+        "Standards"
+      ]
+    },
+    "automotive-embedded-engineer": {
+      "tier": 2,
+      "replaces": [
+        "Basic ECU configs"
+      ],
+      "amplifies": [
+        "AUTOSAR integration",
+        "Validation"
+      ],
+      "evolved_role_2029": "Automotive Software Architect",
+      "survival_skills": [
+        "C",
+        "Functional safety basics"
+      ]
+    }
+  }
+}

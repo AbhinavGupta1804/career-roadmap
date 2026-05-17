@@ -1,0 +1,2018 @@
+{
+  "version": "2026.1",
+  "careers": [
+    {
+      "slug": "ml-engineer",
+      "name": "ML Engineer",
+      "interest_tags": [
+        "Machine Learning",
+        "Data Science"
+      ],
+      "required_skills": [
+        "Python",
+        "Linear Algebra",
+        "ML frameworks",
+        "SQL",
+        "Git"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 12,
+          "max_lpa": 28
+        },
+        "tier_2": {
+          "min_lpa": 6,
+          "max_lpa": 14
+        },
+        "tier_3": {
+          "min_lpa": 3.5,
+          "max_lpa": 8
+        }
+      },
+      "market_demand_index": 0.88,
+      "ai_resilience_index": 0.95,
+      "competition_level": "high",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "data-scientist",
+      "name": "Data Scientist",
+      "interest_tags": [
+        "Data Science",
+        "Machine Learning"
+      ],
+      "required_skills": [
+        "Python",
+        "Statistics",
+        "SQL",
+        "Visualization",
+        "ML basics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 12,
+          "max_lpa": 28
+        },
+        "tier_2": {
+          "min_lpa": 6,
+          "max_lpa": 14
+        },
+        "tier_3": {
+          "min_lpa": 3.5,
+          "max_lpa": 8
+        }
+      },
+      "market_demand_index": 0.82,
+      "ai_resilience_index": 0.88,
+      "competition_level": "high",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "data-analyst",
+      "name": "Data Analyst",
+      "interest_tags": [
+        "Data Science",
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "SQL",
+        "Excel",
+        "Python or R",
+        "Visualization",
+        "Statistics basics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.9,
+      "ai_resilience_index": 0.78,
+      "competition_level": "medium",
+      "typical_months_to_job": 6,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "analytics-engineer",
+      "name": "Analytics Engineer",
+      "interest_tags": [
+        "Data Science",
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Cloud basics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.85,
+      "ai_resilience_index": 0.9,
+      "competition_level": "medium",
+      "typical_months_to_job": 8,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "data-engineer",
+      "name": "Data Engineer",
+      "interest_tags": [
+        "Data Science",
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "SQL",
+        "Python",
+        "Spark",
+        "Airflow",
+        "Cloud"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.87,
+      "ai_resilience_index": 0.92,
+      "competition_level": "high",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "mlops-engineer",
+      "name": "MLOps Engineer",
+      "interest_tags": [
+        "Machine Learning",
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "ML pipelines",
+        "CI/CD"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 12,
+          "max_lpa": 28
+        },
+        "tier_2": {
+          "min_lpa": 6,
+          "max_lpa": 14
+        },
+        "tier_3": {
+          "min_lpa": 3.5,
+          "max_lpa": 8
+        }
+      },
+      "market_demand_index": 0.8,
+      "ai_resilience_index": 0.96,
+      "competition_level": "medium",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "full-stack-developer",
+      "name": "Full-Stack Developer",
+      "interest_tags": [
+        "Web Dev"
+      ],
+      "required_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "Git"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.92,
+      "ai_resilience_index": 0.8,
+      "competition_level": "high",
+      "typical_months_to_job": 7,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "frontend-developer",
+      "name": "Frontend Developer",
+      "interest_tags": [
+        "Web Dev",
+        "UI/UX Design"
+      ],
+      "required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Git"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.88,
+      "ai_resilience_index": 0.65,
+      "competition_level": "high",
+      "typical_months_to_job": 6,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "backend-developer",
+      "name": "Backend Developer",
+      "interest_tags": [
+        "Web Dev"
+      ],
+      "required_skills": [
+        "Python or Java",
+        "REST APIs",
+        "SQL",
+        "System design basics",
+        "Git"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.9,
+      "ai_resilience_index": 0.82,
+      "competition_level": "high",
+      "typical_months_to_job": 7,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "mobile-developer",
+      "name": "Mobile Developer",
+      "interest_tags": [
+        "Mobile Dev",
+        "Web Dev"
+      ],
+      "required_skills": [
+        "Kotlin or Swift",
+        "Mobile UI",
+        "APIs",
+        "Git",
+        "App deployment"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.75,
+      "ai_resilience_index": 0.72,
+      "competition_level": "medium",
+      "typical_months_to_job": 8,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "devops-engineer",
+      "name": "DevOps Engineer",
+      "interest_tags": [
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Cloud"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.86,
+      "ai_resilience_index": 0.88,
+      "competition_level": "high",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "cloud-engineer",
+      "name": "Cloud Engineer",
+      "interest_tags": [
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "AWS or Azure",
+        "Networking",
+        "IaC",
+        "Linux",
+        "Security basics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.84,
+      "ai_resilience_index": 0.9,
+      "competition_level": "high",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "site-reliability-engineer",
+      "name": "Site Reliability Engineer (SRE)",
+      "interest_tags": [
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "Linux",
+        "Monitoring",
+        "Python/Go",
+        "Kubernetes",
+        "Incident response"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.78,
+      "ai_resilience_index": 0.91,
+      "competition_level": "medium",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "cybersecurity-analyst",
+      "name": "Cybersecurity Analyst",
+      "interest_tags": [
+        "Cybersecurity"
+      ],
+      "required_skills": [
+        "Networking",
+        "Linux",
+        "SIEM",
+        "Threat analysis",
+        "Scripting"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.83,
+      "ai_resilience_index": 0.85,
+      "competition_level": "medium",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "penetration-tester",
+      "name": "Penetration Tester",
+      "interest_tags": [
+        "Cybersecurity"
+      ],
+      "required_skills": [
+        "Networking",
+        "Web security",
+        "Linux",
+        "Burp Suite",
+        "Reporting"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.7,
+      "ai_resilience_index": 0.8,
+      "competition_level": "medium",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "ui-ux-designer",
+      "name": "UI/UX Designer",
+      "interest_tags": [
+        "UI/UX Design"
+      ],
+      "required_skills": [
+        "Figma",
+        "User research",
+        "Wireframing",
+        "Prototyping",
+        "Design systems"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.8,
+      "ai_resilience_index": 0.7,
+      "competition_level": "high",
+      "typical_months_to_job": 7,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "ai-product-designer",
+      "name": "AI Product Designer",
+      "interest_tags": [
+        "UI/UX Design",
+        "Machine Learning"
+      ],
+      "required_skills": [
+        "Figma",
+        "UX research",
+        "AI product patterns",
+        "Prototyping",
+        "Collaboration"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 12,
+          "max_lpa": 28
+        },
+        "tier_2": {
+          "min_lpa": 6,
+          "max_lpa": 14
+        },
+        "tier_3": {
+          "min_lpa": 3.5,
+          "max_lpa": 8
+        }
+      },
+      "market_demand_index": 0.72,
+      "ai_resilience_index": 0.94,
+      "competition_level": "medium",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "product-manager-tech",
+      "name": "Product Manager (Tech)",
+      "interest_tags": [
+        "Product Management"
+      ],
+      "required_skills": [
+        "Product sense",
+        "SQL basics",
+        "User research",
+        "Roadmapping",
+        "Communication"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.78,
+      "ai_resilience_index": 0.82,
+      "competition_level": "high",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "qa-automation-engineer",
+      "name": "QA Automation Engineer",
+      "interest_tags": [
+        "Web Dev",
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "Manual testing",
+        "Selenium/Playwright",
+        "Python/Java",
+        "API testing",
+        "CI"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.76,
+      "ai_resilience_index": 0.75,
+      "competition_level": "medium",
+      "typical_months_to_job": 7,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "embedded-systems-engineer",
+      "name": "Embedded Systems Engineer",
+      "interest_tags": [
+        "Hardware",
+        "Robotics"
+      ],
+      "required_skills": [
+        "C/C++",
+        "Microcontrollers",
+        "RTOS",
+        "Debugging",
+        "Electronics basics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.65,
+      "ai_resilience_index": 0.78,
+      "competition_level": "medium",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "game-developer",
+      "name": "Game Developer",
+      "interest_tags": [
+        "Game Dev"
+      ],
+      "required_skills": [
+        "C# or C++",
+        "Unity/Unreal",
+        "Game math",
+        "Physics basics",
+        "Git"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.6,
+      "ai_resilience_index": 0.68,
+      "competition_level": "medium",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "robotics-software-engineer",
+      "name": "Robotics Software Engineer",
+      "interest_tags": [
+        "Robotics",
+        "Machine Learning"
+      ],
+      "required_skills": [
+        "Python",
+        "C++",
+        "ROS",
+        "Kinematics basics",
+        "Computer vision basics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.62,
+      "ai_resilience_index": 0.86,
+      "competition_level": "medium",
+      "typical_months_to_job": 11,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "technical-writer",
+      "name": "Technical Writer (Developer Docs)",
+      "interest_tags": [
+        "Web Dev"
+      ],
+      "required_skills": [
+        "Writing",
+        "Markdown",
+        "API docs",
+        "Developer tools",
+        "Information architecture"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.55,
+      "ai_resilience_index": 0.72,
+      "competition_level": "low",
+      "typical_months_to_job": 6,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "business-analyst-tech",
+      "name": "Business Analyst (Tech)",
+      "interest_tags": [
+        "Business Analyst",
+        "Data Science"
+      ],
+      "required_skills": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.74,
+      "ai_resilience_index": 0.76,
+      "competition_level": "medium",
+      "typical_months_to_job": 7,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "database-administrator",
+      "name": "Database Administrator",
+      "interest_tags": [
+        "Cloud/DevOps",
+        "Data Science"
+      ],
+      "required_skills": [
+        "SQL",
+        "PostgreSQL/MySQL",
+        "Backup/restore",
+        "Performance tuning",
+        "Security"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.68,
+      "ai_resilience_index": 0.74,
+      "competition_level": "medium",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "network-engineer",
+      "name": "Network Engineer",
+      "interest_tags": [
+        "Cybersecurity",
+        "Hardware"
+      ],
+      "required_skills": [
+        "Networking",
+        "Routing/Switching",
+        "Firewalls",
+        "Linux",
+        "Monitoring"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.66,
+      "ai_resilience_index": 0.7,
+      "competition_level": "medium",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "solutions-engineer",
+      "name": "Solutions Engineer",
+      "interest_tags": [
+        "Web Dev",
+        "Product Management"
+      ],
+      "required_skills": [
+        "SQL",
+        "APIs",
+        "Presentation",
+        "Debugging",
+        "Customer discovery"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.7,
+      "ai_resilience_index": 0.83,
+      "competition_level": "medium",
+      "typical_months_to_job": 8,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "computer-vision-engineer",
+      "name": "Computer Vision Engineer",
+      "interest_tags": [
+        "Machine Learning",
+        "Robotics"
+      ],
+      "required_skills": [
+        "Python",
+        "OpenCV",
+        "Deep learning",
+        "Linear algebra",
+        "Deployment"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.68,
+      "ai_resilience_index": 0.93,
+      "competition_level": "medium",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "nlp-engineer",
+      "name": "NLP Engineer",
+      "interest_tags": [
+        "Machine Learning",
+        "Data Science"
+      ],
+      "required_skills": [
+        "Python",
+        "Transformers",
+        "NLP fundamentals",
+        "SQL",
+        "MLOps basics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 12,
+          "max_lpa": 28
+        },
+        "tier_2": {
+          "min_lpa": 6,
+          "max_lpa": 14
+        },
+        "tier_3": {
+          "min_lpa": 3.5,
+          "max_lpa": 8
+        }
+      },
+      "market_demand_index": 0.7,
+      "ai_resilience_index": 0.94,
+      "competition_level": "medium",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "iot-developer",
+      "name": "IoT Developer",
+      "interest_tags": [
+        "Hardware",
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "C/C++",
+        "Embedded Linux",
+        "MQTT",
+        "Cloud IoT",
+        "Sensors"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.58,
+      "ai_resilience_index": 0.8,
+      "competition_level": "low",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "generic-content-writer",
+      "name": "Generic Content Writer",
+      "interest_tags": [
+        "Marketing",
+        "Web Dev"
+      ],
+      "required_skills": [
+        "Writing",
+        "SEO basics",
+        "Google Docs",
+        "Keyword research"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 4,
+          "max_lpa": 7
+        },
+        "tier_2": {
+          "min_lpa": 2.5,
+          "max_lpa": 4.5
+        },
+        "tier_3": {
+          "min_lpa": 1.8,
+          "max_lpa": 3.5
+        }
+      },
+      "market_demand_index": 0.35,
+      "ai_resilience_index": 0.22,
+      "competition_level": "high",
+      "typical_months_to_job": 4,
+      "entry_difficulty": "low"
+    },
+    {
+      "slug": "junior-graphic-designer",
+      "name": "Junior Graphic Designer (Agency)",
+      "interest_tags": [
+        "UI/UX Design",
+        "Marketing"
+      ],
+      "required_skills": [
+        "Photoshop",
+        "Canva",
+        "Basic layouts",
+        "Social creatives"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 4,
+          "max_lpa": 7
+        },
+        "tier_2": {
+          "min_lpa": 2.5,
+          "max_lpa": 4.5
+        },
+        "tier_3": {
+          "min_lpa": 1.8,
+          "max_lpa": 3.5
+        }
+      },
+      "market_demand_index": 0.4,
+      "ai_resilience_index": 0.18,
+      "competition_level": "high",
+      "typical_months_to_job": 5,
+      "entry_difficulty": "low"
+    },
+    {
+      "slug": "manual-qa-tester",
+      "name": "Manual QA Tester",
+      "interest_tags": [
+        "Web Dev"
+      ],
+      "required_skills": [
+        "Test cases",
+        "Excel",
+        "Bug reporting",
+        "Attention to detail"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 4,
+          "max_lpa": 7
+        },
+        "tier_2": {
+          "min_lpa": 2.5,
+          "max_lpa": 4.5
+        },
+        "tier_3": {
+          "min_lpa": 1.8,
+          "max_lpa": 3.5
+        }
+      },
+      "market_demand_index": 0.42,
+      "ai_resilience_index": 0.25,
+      "competition_level": "medium",
+      "typical_months_to_job": 4,
+      "entry_difficulty": "low"
+    },
+    {
+      "slug": "tier-1-tech-support",
+      "name": "Tier-1 Tech Support",
+      "interest_tags": [
+        "Web Dev",
+        "Cybersecurity"
+      ],
+      "required_skills": [
+        "Troubleshooting scripts",
+        "CRM tools",
+        "Communication",
+        "Ticketing"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 4,
+          "max_lpa": 7
+        },
+        "tier_2": {
+          "min_lpa": 2.5,
+          "max_lpa": 4.5
+        },
+        "tier_3": {
+          "min_lpa": 1.8,
+          "max_lpa": 3.5
+        }
+      },
+      "market_demand_index": 0.38,
+      "ai_resilience_index": 0.2,
+      "competition_level": "medium",
+      "typical_months_to_job": 3,
+      "entry_difficulty": "low"
+    },
+    {
+      "slug": "bpo-voice-agent",
+      "name": "BPO / Call Center Voice Agent",
+      "interest_tags": [
+        "Sales",
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "Scripts",
+        "CRM",
+        "English communication",
+        "Attendance"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 4,
+          "max_lpa": 7
+        },
+        "tier_2": {
+          "min_lpa": 2.5,
+          "max_lpa": 4.5
+        },
+        "tier_3": {
+          "min_lpa": 1.8,
+          "max_lpa": 3.5
+        }
+      },
+      "market_demand_index": 0.25,
+      "ai_resilience_index": 0.08,
+      "competition_level": "low",
+      "typical_months_to_job": 3,
+      "entry_difficulty": "low"
+    },
+    {
+      "slug": "generic-seo-writer",
+      "name": "Generic SEO Content Mill Writer",
+      "interest_tags": [
+        "Marketing",
+        "Web Dev"
+      ],
+      "required_skills": [
+        "SEO templates",
+        "Surfer/Clearscope basics",
+        "WordPress",
+        "Plagiarism tools"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 4,
+          "max_lpa": 7
+        },
+        "tier_2": {
+          "min_lpa": 2.5,
+          "max_lpa": 4.5
+        },
+        "tier_3": {
+          "min_lpa": 1.8,
+          "max_lpa": 3.5
+        }
+      },
+      "market_demand_index": 0.28,
+      "ai_resilience_index": 0.1,
+      "competition_level": "high",
+      "typical_months_to_job": 3,
+      "entry_difficulty": "low"
+    },
+    {
+      "slug": "microstock-design-seller",
+      "name": "Microstock / Fiverr Logo Seller",
+      "interest_tags": [
+        "UI/UX Design",
+        "Marketing"
+      ],
+      "required_skills": [
+        "Canva",
+        "Stock templates",
+        "Basic Illustrator",
+        "Client chat"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 4,
+          "max_lpa": 7
+        },
+        "tier_2": {
+          "min_lpa": 2.5,
+          "max_lpa": 4.5
+        },
+        "tier_3": {
+          "min_lpa": 1.8,
+          "max_lpa": 3.5
+        }
+      },
+      "market_demand_index": 0.22,
+      "ai_resilience_index": 0.06,
+      "competition_level": "high",
+      "typical_months_to_job": 3,
+      "entry_difficulty": "low"
+    },
+    {
+      "slug": "data-entry-operator",
+      "name": "Data Entry Operator",
+      "interest_tags": [
+        "Business Analyst",
+        "Hardware"
+      ],
+      "required_skills": [
+        "Typing speed",
+        "Excel",
+        "Accuracy",
+        "Basic English"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 4,
+          "max_lpa": 7
+        },
+        "tier_2": {
+          "min_lpa": 2.5,
+          "max_lpa": 4.5
+        },
+        "tier_3": {
+          "min_lpa": 1.8,
+          "max_lpa": 3.5
+        }
+      },
+      "market_demand_index": 0.2,
+      "ai_resilience_index": 0.05,
+      "competition_level": "low",
+      "typical_months_to_job": 3,
+      "entry_difficulty": "low"
+    },
+    {
+      "slug": "blockchain-developer",
+      "name": "Blockchain Developer",
+      "interest_tags": [
+        "Web Dev",
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "Solidity",
+        "Web3.js",
+        "Smart contracts",
+        "Cryptography basics",
+        "Git"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.55,
+      "ai_resilience_index": 0.72,
+      "competition_level": "medium",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "ar-vr-developer",
+      "name": "AR/VR Developer",
+      "interest_tags": [
+        "Game Dev",
+        "Web Dev"
+      ],
+      "required_skills": [
+        "Unity",
+        "C#",
+        "3D math",
+        "UX for spatial apps",
+        "Git"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.52,
+      "ai_resilience_index": 0.75,
+      "competition_level": "medium",
+      "typical_months_to_job": 11,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "salesforce-developer",
+      "name": "Salesforce Developer",
+      "interest_tags": [
+        "Web Dev",
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "Apex",
+        "Lightning",
+        "CRM workflows",
+        "SQL",
+        "Integration APIs"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.72,
+      "ai_resilience_index": 0.68,
+      "competition_level": "medium",
+      "typical_months_to_job": 8,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "sap-functional-consultant",
+      "name": "SAP Functional Consultant",
+      "interest_tags": [
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "SAP modules",
+        "Business process",
+        "Requirements",
+        "Testing",
+        "Stakeholder mgmt"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.65,
+      "ai_resilience_index": 0.55,
+      "competition_level": "medium",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "digital-marketing-analyst",
+      "name": "Digital Marketing Analyst",
+      "interest_tags": [
+        "Business Analyst",
+        "Data Science"
+      ],
+      "required_skills": [
+        "Google Analytics",
+        "SQL",
+        "Excel",
+        "A/B testing",
+        "Campaign reporting"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.78,
+      "ai_resilience_index": 0.62,
+      "competition_level": "medium",
+      "typical_months_to_job": 6,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "growth-marketer-tech",
+      "name": "Growth Marketer (Tech)",
+      "interest_tags": [
+        "Web Dev",
+        "Product Management"
+      ],
+      "required_skills": [
+        "Funnels",
+        "SQL",
+        "Experimentation",
+        "Copywriting",
+        "Product analytics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.7,
+      "ai_resilience_index": 0.7,
+      "competition_level": "medium",
+      "typical_months_to_job": 7,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "supply-chain-analyst",
+      "name": "Supply Chain Analyst",
+      "interest_tags": [
+        "Business Analyst",
+        "Data Science"
+      ],
+      "required_skills": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Operations research",
+        "Dashboards"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.68,
+      "ai_resilience_index": 0.65,
+      "competition_level": "medium",
+      "typical_months_to_job": 7,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "hr-tech-analyst",
+      "name": "HR Tech Analyst",
+      "interest_tags": [
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "HRIS systems",
+        "SQL",
+        "Excel",
+        "People analytics",
+        "Process design"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.64,
+      "ai_resilience_index": 0.6,
+      "competition_level": "low",
+      "typical_months_to_job": 7,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "fintech-analyst",
+      "name": "FinTech Product Analyst",
+      "interest_tags": [
+        "Business Analyst",
+        "Data Science"
+      ],
+      "required_skills": [
+        "SQL",
+        "Payments",
+        "Risk basics",
+        "Regulatory awareness",
+        "Dashboards"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.75,
+      "ai_resilience_index": 0.78,
+      "competition_level": "medium",
+      "typical_months_to_job": 8,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "quantitative-analyst",
+      "name": "Quantitative Analyst (Junior)",
+      "interest_tags": [
+        "Data Science",
+        "Machine Learning"
+      ],
+      "required_skills": [
+        "Python",
+        "Statistics",
+        "Time series",
+        "SQL",
+        "Probability"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.58,
+      "ai_resilience_index": 0.82,
+      "competition_level": "high",
+      "typical_months_to_job": 12,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "bi-developer",
+      "name": "BI Developer",
+      "interest_tags": [
+        "Data Science",
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "Data modeling",
+        "ETL basics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.8,
+      "ai_resilience_index": 0.74,
+      "competition_level": "medium",
+      "typical_months_to_job": 7,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "etl-developer",
+      "name": "ETL Developer",
+      "interest_tags": [
+        "Data Science",
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "SQL",
+        "Python",
+        "Airflow",
+        "Data modeling",
+        "Cloud storage"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.76,
+      "ai_resilience_index": 0.8,
+      "competition_level": "medium",
+      "typical_months_to_job": 8,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "release-engineer",
+      "name": "Release Engineer",
+      "interest_tags": [
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "CI/CD",
+        "Git",
+        "Scripting",
+        "Artifact management",
+        "Release coordination"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.72,
+      "ai_resilience_index": 0.76,
+      "competition_level": "medium",
+      "typical_months_to_job": 8,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "platform-engineer",
+      "name": "Platform Engineer",
+      "interest_tags": [
+        "Cloud/DevOps"
+      ],
+      "required_skills": [
+        "Kubernetes",
+        "Terraform",
+        "Python/Go",
+        "Observability",
+        "Internal developer platforms"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.74,
+      "ai_resilience_index": 0.92,
+      "competition_level": "high",
+      "typical_months_to_job": 10,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "api-developer",
+      "name": "API Developer",
+      "interest_tags": [
+        "Web Dev"
+      ],
+      "required_skills": [
+        "REST",
+        "OpenAPI",
+        "Python or Node",
+        "Auth",
+        "PostgreSQL"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.82,
+      "ai_resilience_index": 0.84,
+      "competition_level": "medium",
+      "typical_months_to_job": 7,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "developer-advocate",
+      "name": "Developer Advocate",
+      "interest_tags": [
+        "Web Dev",
+        "Product Management"
+      ],
+      "required_skills": [
+        "Technical writing",
+        "Public speaking",
+        "APIs",
+        "Community building",
+        "Demo apps"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.48,
+      "ai_resilience_index": 0.78,
+      "competition_level": "medium",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "scrum-master-tech",
+      "name": "Scrum Master (Tech teams)",
+      "interest_tags": [
+        "Product Management"
+      ],
+      "required_skills": [
+        "Agile",
+        "Facilitation",
+        "Jira",
+        "Stakeholder communication",
+        "Delivery metrics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.68,
+      "ai_resilience_index": 0.58,
+      "competition_level": "medium",
+      "typical_months_to_job": 8,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "it-auditor",
+      "name": "IT Auditor (Tech)",
+      "interest_tags": [
+        "Cybersecurity",
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "Controls",
+        "Risk",
+        "Compliance",
+        "SQL",
+        "Documentation"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.6,
+      "ai_resilience_index": 0.62,
+      "competition_level": "medium",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "gis-analyst",
+      "name": "GIS Analyst",
+      "interest_tags": [
+        "Data Science"
+      ],
+      "required_skills": [
+        "QGIS/ArcGIS",
+        "Python",
+        "Spatial SQL",
+        "Remote sensing basics",
+        "Visualization"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.5,
+      "ai_resilience_index": 0.68,
+      "competition_level": "low",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "bioinformatics-analyst",
+      "name": "Bioinformatics Analyst",
+      "interest_tags": [
+        "Data Science",
+        "Machine Learning"
+      ],
+      "required_skills": [
+        "Python",
+        "R",
+        "Genomics basics",
+        "Statistics",
+        "Linux"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.48,
+      "ai_resilience_index": 0.88,
+      "competition_level": "medium",
+      "typical_months_to_job": 11,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "aerospace-software-engineer",
+      "name": "Aerospace Software Engineer",
+      "interest_tags": [
+        "Hardware",
+        "Robotics"
+      ],
+      "required_skills": [
+        "C++",
+        "MATLAB",
+        "RTOS",
+        "Simulation",
+        "DO-178 awareness"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.45,
+      "ai_resilience_index": 0.8,
+      "competition_level": "medium",
+      "typical_months_to_job": 12,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "automotive-embedded-engineer",
+      "name": "Automotive Embedded Engineer",
+      "interest_tags": [
+        "Hardware",
+        "Robotics"
+      ],
+      "required_skills": [
+        "C",
+        "AUTOSAR basics",
+        "CAN bus",
+        "Embedded Linux",
+        "Testing"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.58,
+      "ai_resilience_index": 0.76,
+      "competition_level": "medium",
+      "typical_months_to_job": 11,
+      "entry_difficulty": "high"
+    }
+  ]
+}

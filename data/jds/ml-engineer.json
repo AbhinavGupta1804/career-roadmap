@@ -1,0 +1,1001 @@
+{
+  "role_slug": "ml-engineer",
+  "role_name": "Ml Engineer",
+  "jds": [
+    {
+      "id": "ml-engineer-01",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-02",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-03",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-04",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-05",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-06",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-07",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-08",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-09",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-10",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-11",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-12",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-13",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-14",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-15",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate, AWS Certified Machine Learning \u2013 Specialty.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate",
+        "AWS Certified Machine Learning \u2013 Specialty"
+      ]
+    },
+    {
+      "id": "ml-engineer-16",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate"
+      ]
+    },
+    {
+      "id": "ml-engineer-17",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate"
+      ]
+    },
+    {
+      "id": "ml-engineer-18",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate"
+      ]
+    },
+    {
+      "id": "ml-engineer-19",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate"
+      ]
+    },
+    {
+      "id": "ml-engineer-20",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer, TensorFlow Developer Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer",
+        "TensorFlow Developer Certificate"
+      ]
+    },
+    {
+      "id": "ml-engineer-21",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ml-engineer-22",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ml-engineer-23",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ml-engineer-24",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ml-engineer-25",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ml-engineer-26",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ml-engineer-27",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ml-engineer-28",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ml-engineer-29",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ml-engineer-30",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred. Preferred certifications: Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": [
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "ml-engineer-31",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-32",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-33",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-34",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-35",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-36",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-37",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-38",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-39",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-40",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-41",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-42",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-43",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-44",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-45",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-46",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-47",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-48",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-49",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "ml-engineer-50",
+      "role_slug": "ml-engineer",
+      "title": "Ml Engineer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher ml engineer role. Work with cross-functional teams. Must know Python, PyTorch, scikit-learn, MLflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "MLflow",
+        "SQL",
+        "Docker"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

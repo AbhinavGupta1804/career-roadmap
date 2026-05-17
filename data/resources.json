@@ -1,0 +1,651 @@
+{
+  "version": "2026.1",
+  "resources": [
+    {
+      "id": "r-py-001",
+      "title": "Python for Everybody (Coursera audit)",
+      "url": "https://www.coursera.org/specializations/python",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 60,
+      "skills_taught": [
+        "Python"
+      ],
+      "provider": "Coursera"
+    },
+    {
+      "id": "r-py-002",
+      "title": "Core Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 20,
+      "skills_taught": [
+        "Python"
+      ],
+      "provider": "Python docs"
+    },
+    {
+      "id": "r-sql-001",
+      "title": "SQLBolt",
+      "url": "https://sqlbolt.com/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 12,
+      "skills_taught": [
+        "SQL"
+      ],
+      "provider": "SQLBolt"
+    },
+    {
+      "id": "r-sql-002",
+      "title": "Mode SQL Tutorial",
+      "url": "https://mode.com/sql-tutorial/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 15,
+      "skills_taught": [
+        "SQL"
+      ],
+      "provider": "Mode"
+    },
+    {
+      "id": "r-ds-001",
+      "title": "NPTEL Data Science for Engineers",
+      "url": "https://onlinecourses.nptel.ac.in/noc26_cs101",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 40,
+      "skills_taught": [
+        "Statistics",
+        "Python"
+      ],
+      "provider": "NPTEL"
+    },
+    {
+      "id": "r-ml-001",
+      "title": "Andrew Ng ML Specialization",
+      "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+      "type": "course",
+      "cost": "paid",
+      "cost_inr_max": 3000,
+      "hours": 80,
+      "skills_taught": [
+        "ML basics",
+        "Python"
+      ],
+      "provider": "Coursera"
+    },
+    {
+      "id": "r-ml-002",
+      "title": "fast.ai Practical Deep Learning",
+      "url": "https://course.fast.ai/",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 50,
+      "skills_taught": [
+        "Deep learning",
+        "Python"
+      ],
+      "provider": "fast.ai"
+    },
+    {
+      "id": "r-fe-001",
+      "title": "freeCodeCamp Responsive Web Design",
+      "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 40,
+      "skills_taught": [
+        "HTML",
+        "CSS"
+      ],
+      "provider": "freeCodeCamp"
+    },
+    {
+      "id": "r-fe-002",
+      "title": "React Official Docs",
+      "url": "https://react.dev/learn",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 25,
+      "skills_taught": [
+        "React",
+        "JavaScript"
+      ],
+      "provider": "Meta"
+    },
+    {
+      "id": "r-fe-003",
+      "title": "Traversy Media React Crash Course",
+      "url": "https://www.youtube.com/watch?v=w7ejDZ8SWv8",
+      "type": "video",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 2,
+      "skills_taught": [
+        "React"
+      ],
+      "provider": "YouTube"
+    },
+    {
+      "id": "r-be-001",
+      "title": "FastAPI Documentation",
+      "url": "https://fastapi.tiangolo.com/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 15,
+      "skills_taught": [
+        "REST APIs",
+        "Python"
+      ],
+      "provider": "FastAPI"
+    },
+    {
+      "id": "r-be-002",
+      "title": "Node.js Express Getting Started",
+      "url": "https://expressjs.com/en/starter/installing.html",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 10,
+      "skills_taught": [
+        "Node.js",
+        "REST APIs"
+      ],
+      "provider": "Express"
+    },
+    {
+      "id": "r-git-001",
+      "title": "Git & GitHub Crash Course",
+      "url": "https://www.youtube.com/watch?v=RGOj5yxtSMs",
+      "type": "video",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 1,
+      "skills_taught": [
+        "Git"
+      ],
+      "provider": "YouTube"
+    },
+    {
+      "id": "r-dv-001",
+      "title": "Docker for Beginners",
+      "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+      "type": "video",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 2,
+      "skills_taught": [
+        "Docker"
+      ],
+      "provider": "YouTube"
+    },
+    {
+      "id": "r-dv-002",
+      "title": "KodeKloud Kubernetes Basics (free labs)",
+      "url": "https://kodekloud.com/free-labs/kubernetes",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 20,
+      "skills_taught": [
+        "Kubernetes"
+      ],
+      "provider": "KodeKloud"
+    },
+    {
+      "id": "r-cl-001",
+      "title": "AWS Cloud Practitioner Essentials",
+      "url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 12,
+      "skills_taught": [
+        "AWS"
+      ],
+      "provider": "AWS"
+    },
+    {
+      "id": "r-ux-001",
+      "title": "Google UX Design Certificate (audit)",
+      "url": "https://www.coursera.org/professional-certificates/google-ux-design",
+      "type": "course",
+      "cost": "paid",
+      "cost_inr_max": 2500,
+      "hours": 100,
+      "skills_taught": [
+        "Figma",
+        "User research"
+      ],
+      "provider": "Coursera"
+    },
+    {
+      "id": "r-ux-002",
+      "title": "Figma Learn",
+      "url": "https://www.figma.com/resource-library/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 10,
+      "skills_taught": [
+        "Figma"
+      ],
+      "provider": "Figma"
+    },
+    {
+      "id": "r-cy-001",
+      "title": "TryHackMe Pre Security",
+      "url": "https://tryhackme.com/path/outline/presecurity",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 25,
+      "skills_taught": [
+        "Cybersecurity basics"
+      ],
+      "provider": "TryHackMe"
+    },
+    {
+      "id": "r-da-001",
+      "title": "Alex the Analyst SQL Playlist",
+      "url": "https://www.youtube.com/playlist?list=PLUaB-1hzbeCeDmIzsN-SwxUc8YaypqYWV",
+      "type": "video",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 8,
+      "skills_taught": [
+        "SQL",
+        "Excel"
+      ],
+      "provider": "YouTube"
+    },
+    {
+      "id": "r-da-002",
+      "title": "Power BI Desktop Docs",
+      "url": "https://learn.microsoft.com/en-us/power-bi/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 15,
+      "skills_taught": [
+        "Power BI",
+        "Visualization"
+      ],
+      "provider": "Microsoft"
+    },
+    {
+      "id": "r-mob-001",
+      "title": "Android Basics with Compose",
+      "url": "https://developer.android.com/courses/android-basics-compose/course",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 30,
+      "skills_taught": [
+        "Kotlin",
+        "Android"
+      ],
+      "provider": "Google"
+    },
+    {
+      "id": "r-stat-001",
+      "title": "Khan Academy Statistics",
+      "url": "https://www.khanacademy.org/math/statistics-probability",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 25,
+      "skills_taught": [
+        "Statistics"
+      ],
+      "provider": "Khan Academy"
+    },
+    {
+      "id": "r-la-001",
+      "title": "3Blue1Brown Linear Algebra",
+      "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr",
+      "type": "video",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 6,
+      "skills_taught": [
+        "Linear Algebra"
+      ],
+      "provider": "YouTube"
+    },
+    {
+      "id": "r-dbt-001",
+      "title": "dbt Learn",
+      "url": "https://courses.getdbt.com/courses/fundamentals",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 12,
+      "skills_taught": [
+        "dbt",
+        "SQL"
+      ],
+      "provider": "dbt Labs"
+    },
+    {
+      "id": "r-llm-001",
+      "title": "Hugging Face NLP Course",
+      "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 30,
+      "skills_taught": [
+        "NLP fundamentals"
+      ],
+      "provider": "Hugging Face"
+    },
+    {
+      "id": "r-cv-001",
+      "title": "OpenCV Python Tutorials",
+      "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 20,
+      "skills_taught": [
+        "OpenCV",
+        "Python"
+      ],
+      "provider": "OpenCV"
+    },
+    {
+      "id": "r-ros-001",
+      "title": "ROS2 Humble Tutorials",
+      "url": "https://docs.ros.org/en/humble/Tutorials.html",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 25,
+      "skills_taught": [
+        "ROS"
+      ],
+      "provider": "Open Robotics"
+    },
+    {
+      "id": "r-pm-001",
+      "title": "Inspired (book summary + notes)",
+      "url": "https://www.youtube.com/watch?v=9jkzd02IkFc",
+      "type": "video",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 1,
+      "skills_taught": [
+        "Product sense"
+      ],
+      "provider": "YouTube"
+    },
+    {
+      "id": "r-ud-001",
+      "title": "Udemy sale courses (SQL/Python)",
+      "url": "https://www.udemy.com/courses/search/?q=sql+python",
+      "type": "course",
+      "cost": "paid",
+      "cost_inr_max": 500,
+      "hours": 20,
+      "skills_taught": [
+        "SQL",
+        "Python"
+      ],
+      "provider": "Udemy"
+    },
+    {
+      "id": "r-npt-001",
+      "title": "NPTEL Programming in Java",
+      "url": "https://onlinecourses.nptel.ac.in/noc26_cs42",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 45,
+      "skills_taught": [
+        "Java"
+      ],
+      "provider": "NPTEL"
+    },
+    {
+      "id": "r-ts-001",
+      "title": "TypeScript Handbook",
+      "url": "https://www.typescriptlang.org/docs/handbook/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 12,
+      "skills_taught": [
+        "TypeScript",
+        "JavaScript"
+      ],
+      "provider": "Microsoft"
+    },
+    {
+      "id": "r-k8-001",
+      "title": "Kubernetes Official Docs Concepts",
+      "url": "https://kubernetes.io/docs/concepts/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 18,
+      "skills_taught": [
+        "Kubernetes"
+      ],
+      "provider": "CNCF"
+    },
+    {
+      "id": "r-fig-001",
+      "title": "Refactoring UI (principles)",
+      "url": "https://www.refactoringui.com/",
+      "type": "book",
+      "cost": "paid",
+      "cost_inr_max": 1500,
+      "hours": 6,
+      "skills_taught": [
+        "UI/UX Design"
+      ],
+      "provider": "Refactoring UI"
+    },
+    {
+      "id": "r-api-001",
+      "title": "Postman API Fundamentals",
+      "url": "https://learning.postman.com/docs/getting-started/introduction/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 5,
+      "skills_taught": [
+        "REST APIs"
+      ],
+      "provider": "Postman"
+    },
+    {
+      "id": "r-linux-001",
+      "title": "Linux Journey",
+      "url": "https://linuxjourney.com/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 15,
+      "skills_taught": [
+        "Linux"
+      ],
+      "provider": "Linux Journey"
+    },
+    {
+      "id": "r-net-001",
+      "title": "Cisco Networking Basics",
+      "url": "https://skillsforall.com/course/networking-basics",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 20,
+      "skills_taught": [
+        "Networking"
+      ],
+      "provider": "Cisco"
+    },
+    {
+      "id": "r-embed-001",
+      "title": "Embedded Systems - NPTEL",
+      "url": "https://onlinecourses.nptel.ac.in/noc26_ee101",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 40,
+      "skills_taught": [
+        "C/C++",
+        "Embedded"
+      ],
+      "provider": "NPTEL"
+    },
+    {
+      "id": "r-game-001",
+      "title": "Brackeys Unity tutorials (archived)",
+      "url": "https://www.youtube.com/@Brackeys",
+      "type": "video",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 10,
+      "skills_taught": [
+        "Unity",
+        "C#"
+      ],
+      "provider": "YouTube"
+    },
+    {
+      "id": "r-write-001",
+      "title": "Google Developer Documentation Style Guide",
+      "url": "https://developers.google.com/style",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 8,
+      "skills_taught": [
+        "Technical writing"
+      ],
+      "provider": "Google"
+    },
+    {
+      "id": "r-ba-001",
+      "title": "Business Analysis fundamentals (Coursera audit)",
+      "url": "https://www.coursera.org/specializations/business-analytics",
+      "type": "course",
+      "cost": "paid",
+      "cost_inr_max": 2000,
+      "hours": 40,
+      "skills_taught": [
+        "Business analysis",
+        "Excel"
+      ],
+      "provider": "Coursera"
+    },
+    {
+      "id": "r-pg-001",
+      "title": "PostgreSQL Tutorial",
+      "url": "https://www.postgresqltutorial.com/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 15,
+      "skills_taught": [
+        "PostgreSQL",
+        "SQL"
+      ],
+      "provider": "postgresqltutorial.com"
+    },
+    {
+      "id": "r-mongo-001",
+      "title": "MongoDB University M001",
+      "url": "https://learn.mongodb.com/courses/mongodb-basics",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 12,
+      "skills_taught": [
+        "MongoDB"
+      ],
+      "provider": "MongoDB"
+    },
+    {
+      "id": "r-terraform-001",
+      "title": "Terraform Getting Started",
+      "url": "https://developer.hashicorp.com/terraform/tutorials/aws-get-started",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 10,
+      "skills_taught": [
+        "Terraform",
+        "AWS"
+      ],
+      "provider": "HashiCorp"
+    },
+    {
+      "id": "r-play-001",
+      "title": "Playwright Getting Started",
+      "url": "https://playwright.dev/docs/intro",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 8,
+      "skills_taught": [
+        "QA Automation"
+      ],
+      "provider": "Microsoft"
+    },
+    {
+      "id": "r-rag-001",
+      "title": "DeepLearning.AI LangChain short courses",
+      "url": "https://www.deeplearning.ai/short-courses/",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 6,
+      "skills_taught": [
+        "LLM applications",
+        "RAG"
+      ],
+      "provider": "DeepLearning.AI"
+    },
+    {
+      "id": "r-port-001",
+      "title": "GitHub Pages Docs",
+      "url": "https://docs.github.com/en/pages",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 2,
+      "skills_taught": [
+        "Git",
+        "Portfolio"
+      ],
+      "provider": "GitHub"
+    },
+    {
+      "id": "r-comm-001",
+      "title": "Technical communication for engineers",
+      "url": "https://www.coursera.org/learn/communication-skills-engineers",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 10,
+      "skills_taught": [
+        "Communication"
+      ],
+      "provider": "Coursera"
+    }
+  ]
+}

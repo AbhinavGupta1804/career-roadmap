@@ -1,0 +1,991 @@
+{
+  "role_slug": "platform-engineer",
+  "role_name": "Platform Engineer",
+  "jds": [
+    {
+      "id": "platform-engineer-01",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-02",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-03",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-04",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-05",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-06",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-07",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-08",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-09",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-10",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-11",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-12",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-13",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-14",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-15",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-16",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-17",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-18",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-19",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-20",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-21",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-22",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-23",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-24",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-25",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: CKA: Certified Kubernetes Administrator, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "CKA: Certified Kubernetes Administrator",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-26",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-27",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-28",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-29",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-30",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "platform-engineer-31",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-32",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-33",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-34",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-35",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-36",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-37",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-38",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-39",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-40",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-41",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-42",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-43",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-44",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-45",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-46",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-47",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-48",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-49",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "platform-engineer-50",
+      "role_slug": "platform-engineer",
+      "title": "Platform Engineer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher platform engineer role. Work with cross-functional teams. Must know Kubernetes, Terraform, Python, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "CI/CD",
+        "Observability",
+        "Linux"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

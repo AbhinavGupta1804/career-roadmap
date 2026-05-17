@@ -1,0 +1,1001 @@
+{
+  "role_slug": "frontend-developer",
+  "role_name": "Frontend Developer",
+  "jds": [
+    {
+      "id": "frontend-developer-01",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-02",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-03",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-04",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-05",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-06",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-07",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-08",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-09",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-10",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-11",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-12",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-13",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-14",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-15",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate, Google UX Design Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate",
+        "Google UX Design Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-16",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-17",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-18",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-19",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-20",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-21",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-22",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-23",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-24",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-25",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-26",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-27",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-28",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-29",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-30",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-31",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-32",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-33",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-34",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-35",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-36",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-37",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-38",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-39",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-40",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred. Preferred certifications: Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": [
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "frontend-developer-41",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "frontend-developer-42",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "frontend-developer-43",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "frontend-developer-44",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "frontend-developer-45",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "frontend-developer-46",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "frontend-developer-47",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "frontend-developer-48",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "frontend-developer-49",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "frontend-developer-50",
+      "role_slug": "frontend-developer",
+      "title": "Frontend Developer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher frontend developer role. Work with cross-functional teams. Must know React, TypeScript, CSS, HTML. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "React",
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "Git",
+        "Webpack"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

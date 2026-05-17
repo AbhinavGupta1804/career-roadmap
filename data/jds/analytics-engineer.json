@@ -1,0 +1,976 @@
+{
+  "role_slug": "analytics-engineer",
+  "role_name": "Analytics Engineer",
+  "jds": [
+    {
+      "id": "analytics-engineer-01",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-02",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-03",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-04",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-05",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-06",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-07",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-08",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-09",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-10",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-11",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-12",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-13",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-14",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-15",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-16",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-17",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-18",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-19",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-20",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "analytics-engineer-21",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification"
+      ]
+    },
+    {
+      "id": "analytics-engineer-22",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification"
+      ]
+    },
+    {
+      "id": "analytics-engineer-23",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification"
+      ]
+    },
+    {
+      "id": "analytics-engineer-24",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification"
+      ]
+    },
+    {
+      "id": "analytics-engineer-25",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred. Preferred certifications: dbt Analytics Engineering Certification.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "dbt Analytics Engineering Certification"
+      ]
+    },
+    {
+      "id": "analytics-engineer-26",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-27",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-28",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-29",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-30",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-31",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-32",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-33",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-34",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-35",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-36",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-37",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-38",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-39",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-40",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-41",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-42",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-43",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-44",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-45",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-46",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-47",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-48",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-49",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "analytics-engineer-50",
+      "role_slug": "analytics-engineer",
+      "title": "Analytics Engineer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher analytics engineer role. Work with cross-functional teams. Must know SQL, dbt, Python, Data modeling. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Data modeling",
+        "Airflow",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

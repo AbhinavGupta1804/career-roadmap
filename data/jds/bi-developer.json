@@ -1,0 +1,996 @@
+{
+  "role_slug": "bi-developer",
+  "role_name": "Bi Developer",
+  "jds": [
+    {
+      "id": "bi-developer-01",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-02",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-03",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-04",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-05",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-06",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-07",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-08",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-09",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-10",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-11",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-12",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-13",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-14",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-15",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-16",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-17",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-18",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-19",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-20",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "bi-developer-21",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-22",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-23",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-24",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-25",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-26",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-27",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-28",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-29",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-30",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-31",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-32",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-33",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-34",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-35",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred. Preferred certifications: Microsoft Power BI Data Analyst.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": [
+        "Microsoft Power BI Data Analyst"
+      ]
+    },
+    {
+      "id": "bi-developer-36",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-37",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-38",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-39",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-40",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-41",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-42",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-43",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-44",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-45",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-46",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-47",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-48",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-49",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "bi-developer-50",
+      "role_slug": "bi-developer",
+      "title": "Bi Developer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher bi developer role. Work with cross-functional teams. Must know Power BI, SQL, DAX, ETL. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Power BI",
+        "SQL",
+        "DAX",
+        "ETL",
+        "Data modeling",
+        "Excel"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

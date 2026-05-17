@@ -1,0 +1,961 @@
+{
+  "role_slug": "business-analyst-tech",
+  "role_name": "Business Analyst Tech",
+  "jds": [
+    {
+      "id": "business-analyst-tech-01",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-02",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-03",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-04",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-05",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-06",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-07",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-08",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-09",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-10",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-11",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-12",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-13",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-14",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-15",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate, IIBA ECBA (entry BA).",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate",
+        "IIBA ECBA (entry BA)"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-16",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-17",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-18",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-19",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-20",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred. Preferred certifications: Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": [
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "business-analyst-tech-21",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-22",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-23",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-24",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-25",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-26",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-27",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-28",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-29",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-30",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-31",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-32",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-33",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-34",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-35",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-36",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-37",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-38",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-39",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-40",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-41",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-42",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-43",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-44",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-45",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-46",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-47",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-48",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-49",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "business-analyst-tech-50",
+      "role_slug": "business-analyst-tech",
+      "title": "Business Analyst Tech",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher business analyst tech role. Work with cross-functional teams. Must know SQL, Excel, Requirements, Jira. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Excel",
+        "Requirements",
+        "Jira",
+        "Process mapping",
+        "Stakeholder communication"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

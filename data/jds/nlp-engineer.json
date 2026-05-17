@@ -1,0 +1,966 @@
+{
+  "role_slug": "nlp-engineer",
+  "role_name": "Nlp Engineer",
+  "jds": [
+    {
+      "id": "nlp-engineer-01",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-02",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-03",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-04",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-05",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-06",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-07",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-08",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-09",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-10",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-11",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-12",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-13",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-14",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-15",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-16",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-17",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-18",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-19",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-20",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred. Preferred certifications: TensorFlow Developer Certificate, Google Professional Machine Learning Engineer.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": [
+        "TensorFlow Developer Certificate",
+        "Google Professional Machine Learning Engineer"
+      ]
+    },
+    {
+      "id": "nlp-engineer-21",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-22",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-23",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-24",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-25",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-26",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-27",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-28",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-29",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-30",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-31",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-32",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-33",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-34",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-35",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-36",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-37",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-38",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-39",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-40",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-41",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-42",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-43",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-44",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-45",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-46",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-47",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-48",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-49",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "nlp-engineer-50",
+      "role_slug": "nlp-engineer",
+      "title": "Nlp Engineer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher nlp engineer role. Work with cross-functional teams. Must know Python, Transformers, NLP, RAG. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Transformers",
+        "NLP",
+        "RAG",
+        "Evaluation",
+        "MLOps basics"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

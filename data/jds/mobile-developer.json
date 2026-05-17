@@ -1,0 +1,936 @@
+{
+  "role_slug": "mobile-developer",
+  "role_name": "Mobile Developer",
+  "jds": [
+    {
+      "id": "mobile-developer-01",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-02",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-03",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-04",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-05",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-06",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-07",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-08",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-09",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-10",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-11",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-12",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-13",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-14",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-15",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-16",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-17",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-18",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-19",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-20",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer, Meta Android Developer Professional Certificate.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer",
+        "Meta Android Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "mobile-developer-21",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer"
+      ]
+    },
+    {
+      "id": "mobile-developer-22",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer"
+      ]
+    },
+    {
+      "id": "mobile-developer-23",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer"
+      ]
+    },
+    {
+      "id": "mobile-developer-24",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer"
+      ]
+    },
+    {
+      "id": "mobile-developer-25",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer"
+      ]
+    },
+    {
+      "id": "mobile-developer-26",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer"
+      ]
+    },
+    {
+      "id": "mobile-developer-27",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer"
+      ]
+    },
+    {
+      "id": "mobile-developer-28",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer"
+      ]
+    },
+    {
+      "id": "mobile-developer-29",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer"
+      ]
+    },
+    {
+      "id": "mobile-developer-30",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred. Preferred certifications: Google Associate Android Developer.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "Google Associate Android Developer"
+      ]
+    },
+    {
+      "id": "mobile-developer-31",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-32",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-33",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-34",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-35",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-36",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-37",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-38",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-39",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-40",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-41",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-42",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-43",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-44",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-45",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-46",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-47",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-48",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-49",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "mobile-developer-50",
+      "role_slug": "mobile-developer",
+      "title": "Mobile Developer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher mobile developer role. Work with cross-functional teams. Must know Kotlin, Android, REST APIs, Firebase. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Kotlin",
+        "Android",
+        "REST APIs",
+        "Firebase",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

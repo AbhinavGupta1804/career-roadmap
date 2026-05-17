@@ -1,0 +1,996 @@
+{
+  "role_slug": "data-engineer",
+  "role_name": "Data Engineer",
+  "jds": [
+    {
+      "id": "data-engineer-01",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-02",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-03",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-04",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-05",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-06",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-07",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-08",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-09",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-10",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-11",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-12",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-13",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-14",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-15",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-16",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-17",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-18",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-19",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-20",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Databricks Lakehouse Fundamentals.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Databricks Lakehouse Fundamentals"
+      ]
+    },
+    {
+      "id": "data-engineer-21",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-22",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-23",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-24",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-25",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-26",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-27",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-28",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-29",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-30",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-31",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-32",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-33",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-34",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-35",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "data-engineer-36",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-37",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-38",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-39",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-40",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-41",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-42",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-43",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-44",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-45",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-46",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-47",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-48",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-49",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-engineer-50",
+      "role_slug": "data-engineer",
+      "title": "Data Engineer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data engineer role. Work with cross-functional teams. Must know Python, Spark, SQL, Airflow. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Spark",
+        "SQL",
+        "Airflow",
+        "AWS",
+        "Data modeling"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

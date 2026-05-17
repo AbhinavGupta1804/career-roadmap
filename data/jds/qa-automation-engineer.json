@@ -1,0 +1,961 @@
+{
+  "role_slug": "qa-automation-engineer",
+  "role_name": "Qa Automation Engineer",
+  "jds": [
+    {
+      "id": "qa-automation-engineer-01",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-02",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-03",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-04",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-05",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-06",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-07",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-08",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-09",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-10",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-11",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-12",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-13",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-14",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-15",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level, AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level",
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-16",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-17",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-18",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-19",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-20",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred. Preferred certifications: ISTQB Foundation Level.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": [
+        "ISTQB Foundation Level"
+      ]
+    },
+    {
+      "id": "qa-automation-engineer-21",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-22",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-23",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-24",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-25",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-26",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-27",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-28",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-29",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-30",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-31",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-32",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-33",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-34",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-35",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-36",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-37",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-38",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-39",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-40",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-41",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-42",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-43",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-44",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-45",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-46",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-47",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-48",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-49",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "qa-automation-engineer-50",
+      "role_slug": "qa-automation-engineer",
+      "title": "Qa Automation Engineer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher qa automation engineer role. Work with cross-functional teams. Must know Selenium, Playwright, Python, API testing. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Selenium",
+        "Playwright",
+        "Python",
+        "API testing",
+        "CI/CD",
+        "Test strategy"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

@@ -1,0 +1,996 @@
+{
+  "role_slug": "backend-developer",
+  "role_name": "Backend Developer",
+  "jds": [
+    {
+      "id": "backend-developer-01",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-02",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-03",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-04",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-05",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-06",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-07",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-08",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-09",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-10",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-11",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-12",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-13",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-14",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-15",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-16",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-17",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-18",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-19",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-20",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Oracle Java SE Associate.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Oracle Java SE Associate"
+      ]
+    },
+    {
+      "id": "backend-developer-21",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-22",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-23",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-24",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-25",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-26",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-27",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-28",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-29",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-30",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-31",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-32",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-33",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-34",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-35",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "backend-developer-36",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-37",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-38",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-39",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-40",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-41",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-42",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-43",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-44",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-45",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-46",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-47",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-48",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-49",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "backend-developer-50",
+      "role_slug": "backend-developer",
+      "title": "Backend Developer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher backend developer role. Work with cross-functional teams. Must know Python, Django, PostgreSQL, Redis. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "Redis",
+        "REST",
+        "AWS"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

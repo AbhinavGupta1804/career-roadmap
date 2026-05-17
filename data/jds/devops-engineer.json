@@ -1,0 +1,1021 @@
+{
+  "role_slug": "devops-engineer",
+  "role_name": "Devops Engineer",
+  "jds": [
+    {
+      "id": "devops-engineer-01",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-02",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-03",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-04",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-05",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-06",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-07",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-08",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-09",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-10",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-11",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-12",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-13",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-14",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-15",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator, HashiCorp Terraform Associate.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator",
+        "HashiCorp Terraform Associate"
+      ]
+    },
+    {
+      "id": "devops-engineer-16",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator"
+      ]
+    },
+    {
+      "id": "devops-engineer-17",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator"
+      ]
+    },
+    {
+      "id": "devops-engineer-18",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator"
+      ]
+    },
+    {
+      "id": "devops-engineer-19",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator"
+      ]
+    },
+    {
+      "id": "devops-engineer-20",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, CKA: Certified Kubernetes Administrator.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "CKA: Certified Kubernetes Administrator"
+      ]
+    },
+    {
+      "id": "devops-engineer-21",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-22",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-23",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-24",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-25",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-26",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-27",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-28",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-29",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-30",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-31",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-32",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-33",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-34",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-35",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-36",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-37",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-38",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-39",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-40",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "devops-engineer-41",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "devops-engineer-42",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "devops-engineer-43",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "devops-engineer-44",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "devops-engineer-45",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "devops-engineer-46",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "devops-engineer-47",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "devops-engineer-48",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "devops-engineer-49",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "devops-engineer-50",
+      "role_slug": "devops-engineer",
+      "title": "Devops Engineer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher devops engineer role. Work with cross-functional teams. Must know Docker, Kubernetes, AWS, CI/CD. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Linux",
+        "Terraform"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

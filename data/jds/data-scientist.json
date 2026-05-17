@@ -1,0 +1,1001 @@
+{
+  "role_slug": "data-scientist",
+  "role_name": "Data Scientist",
+  "jds": [
+    {
+      "id": "data-scientist-01",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-02",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-03",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-04",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-05",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-06",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-07",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-08",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-09",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-10",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-11",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-12",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-13",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-14",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-15",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-16",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-17",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-18",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-19",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-20",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-21",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-22",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-23",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-24",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-25",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate, Google Advanced Data Analytics Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate",
+        "Google Advanced Data Analytics Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-26",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-27",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-28",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-29",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-30",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-31",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-32",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-33",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-34",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-35",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred. Preferred certifications: IBM Data Science Professional Certificate.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": [
+        "IBM Data Science Professional Certificate"
+      ]
+    },
+    {
+      "id": "data-scientist-36",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-37",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-38",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-39",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-40",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-41",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-42",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-43",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-44",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-45",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-46",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-47",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-48",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-49",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "data-scientist-50",
+      "role_slug": "data-scientist",
+      "title": "Data Scientist",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher data scientist role. Work with cross-functional teams. Must know Python, Pandas, SQL, Statistics. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Python",
+        "Pandas",
+        "SQL",
+        "Statistics",
+        "ML",
+        "Visualization"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

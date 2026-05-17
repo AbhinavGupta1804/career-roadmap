@@ -1,0 +1,1011 @@
+{
+  "role_slug": "cloud-engineer",
+  "role_name": "Cloud Engineer",
+  "jds": [
+    {
+      "id": "cloud-engineer-01",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-02",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-03",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-04",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-05",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-06",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-07",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-08",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-09",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-10",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-11",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-12",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-13",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-14",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-15",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-16",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-17",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-18",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-19",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-20",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-21",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-22",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-23",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-24",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-25",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Azure Fundamentals AZ-900.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Azure Fundamentals AZ-900"
+      ]
+    },
+    {
+      "id": "cloud-engineer-26",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-27",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-28",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-29",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-30",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-31",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-32",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-33",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-34",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-35",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-36",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-37",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-38",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-39",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-40",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "cloud-engineer-41",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "cloud-engineer-42",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "cloud-engineer-43",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "cloud-engineer-44",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "cloud-engineer-45",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "cloud-engineer-46",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "cloud-engineer-47",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "cloud-engineer-48",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "cloud-engineer-49",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "cloud-engineer-50",
+      "role_slug": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher cloud engineer role. Work with cross-functional teams. Must know AWS, Azure, Terraform, Networking. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "AWS",
+        "Azure",
+        "Terraform",
+        "Networking",
+        "Linux",
+        "Security"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

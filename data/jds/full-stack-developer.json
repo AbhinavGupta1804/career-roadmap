@@ -1,0 +1,986 @@
+{
+  "role_slug": "full-stack-developer",
+  "role_name": "Full Stack Developer",
+  "jds": [
+    {
+      "id": "full-stack-developer-01",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-02",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-03",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-04",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-05",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-06",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-07",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-08",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-09",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-10",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-11",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-12",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-13",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-14",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-15",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-16",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-17",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-18",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-19",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-20",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner, Meta Front-End Developer Professional Certificate.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner",
+        "Meta Front-End Developer Professional Certificate"
+      ]
+    },
+    {
+      "id": "full-stack-developer-21",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "full-stack-developer-22",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "full-stack-developer-23",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "full-stack-developer-24",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "full-stack-developer-25",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "full-stack-developer-26",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "full-stack-developer-27",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "full-stack-developer-28",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "full-stack-developer-29",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "full-stack-developer-30",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred. Preferred certifications: AWS Certified Cloud Practitioner.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "id": "full-stack-developer-31",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-32",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-33",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-34",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-35",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-36",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-37",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-38",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-39",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-40",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-41",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-42",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-43",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-44",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-45",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-46",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-47",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-48",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-49",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "full-stack-developer-50",
+      "role_slug": "full-stack-developer",
+      "title": "Full Stack Developer",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher full stack developer role. Work with cross-functional teams. Must know JavaScript, React, Node.js, MongoDB. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs",
+        "Git"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}
