@@ -3,13 +3,10 @@
 import { useCallback, useEffect, useState } from "react";
 import type { PlanResponse } from "@/lib/api";
 import { API_BASE } from "@/lib/api";
-
-type WeekProgress = {
-  completed_weeks: number[];
-  current_streak: number;
-  longest_streak: number;
-  last_check_in: string | null;
-};
+import {
+  normalizeWeekProgress,
+  type WeekProgress,
+} from "@/lib/schemas/plan";
 
 type WeeklyCheckInProps = {
   plan: PlanResponse;
@@ -20,15 +17,15 @@ const DEMO_STORAGE_KEY = "demo-week-progress";
 
 function loadDemoProgress(): WeekProgress {
   if (typeof window === "undefined") {
-    return { completed_weeks: [], current_streak: 0, longest_streak: 0, last_check_in: null };
+    return normalizeWeekProgress();
   }
   try {
     const raw = localStorage.getItem(DEMO_STORAGE_KEY);
-    if (raw) return JSON.parse(raw) as WeekProgress;
+    if (raw) return normalizeWeekProgress(JSON.parse(raw) as WeekProgress);
   } catch {
     /* ignore */
   }
-  return { completed_weeks: [], current_streak: 0, longest_streak: 0, last_check_in: null };
+  return normalizeWeekProgress();
 }
 
 function saveDemoProgress(progress: WeekProgress) {
@@ -40,13 +37,8 @@ export function WeeklyCheckIn({ plan, onProgressChange }: WeeklyCheckInProps) {
   const totalWeeks = plan.agent_outputs.learning_path?.total_weeks ?? weeks.length;
   const isDemo = plan.plan_id === "demo";
 
-  const [progress, setProgress] = useState<WeekProgress>(
-    plan.week_progress ?? {
-      completed_weeks: [],
-      current_streak: 0,
-      longest_streak: 0,
-      last_check_in: null,
-    },
+  const [progress, setProgress] = useState<WeekProgress>(() =>
+    normalizeWeekProgress(plan.week_progress),
   );
   const [pendingWeek, setPendingWeek] = useState<number | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -57,7 +49,7 @@ export function WeeklyCheckIn({ plan, onProgressChange }: WeeklyCheckInProps) {
       setProgress(demo);
       onProgressChange?.(demo);
     } else if (plan.week_progress) {
-      setProgress(plan.week_progress as WeekProgress);
+      setProgress(normalizeWeekProgress(plan.week_progress));
     }
   }, [isDemo, plan.week_progress, onProgressChange]);
 
@@ -108,7 +100,7 @@ export function WeeklyCheckIn({ plan, onProgressChange }: WeeklyCheckInProps) {
             const body = (await res.json()) as { detail?: string };
             throw new Error(body.detail ?? `Failed (${res.status})`);
           }
-          const next = (await res.json()) as WeekProgress;
+          const next = normalizeWeekProgress((await res.json()) as WeekProgress);
           setProgress(next);
           onProgressChange?.(next);
         }
