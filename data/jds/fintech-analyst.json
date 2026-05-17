@@ -1,0 +1,964 @@
+{
+  "role_slug": "fintech-analyst",
+  "role_name": "Fintech Analyst",
+  "jds": [
+    {
+      "id": "fintech-analyst-01",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-02",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-03",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-04",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-05",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-06",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-07",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-08",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-09",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-10",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-11",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-12",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-13",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-14",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-15",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-16",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-17",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-18",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications, Google Data Analytics Professional Certificate.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications",
+        "Google Data Analytics Professional Certificate"
+      ]
+    },
+    {
+      "id": "fintech-analyst-19",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications"
+      ]
+    },
+    {
+      "id": "fintech-analyst-20",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred. Preferred certifications: NISM Series certifications.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": [
+        "NISM Series certifications"
+      ]
+    },
+    {
+      "id": "fintech-analyst-21",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-22",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-23",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-24",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-25",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-26",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-27",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-28",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-29",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-30",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-31",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-32",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-33",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-34",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-35",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-36",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-37",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-38",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-39",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-40",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-41",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-42",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-43",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-44",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-45",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-46",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-47",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-48",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-49",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "fintech-analyst-50",
+      "role_slug": "fintech-analyst",
+      "title": "Fintech Analyst",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher FinTech Product Analyst in payments or lending. Analyze product metrics, reconciliation, and regulatory checkpoints. SQL, Payments, Excel, Risk basics required; interest in Indian fintech compliance helpful. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "SQL",
+        "Payments",
+        "Excel",
+        "Risk basics",
+        "Dashboards",
+        "Regulatory awareness"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

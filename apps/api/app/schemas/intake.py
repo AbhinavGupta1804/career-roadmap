@@ -14,10 +14,16 @@ class YearOfStudy(str, Enum):
 
 
 class TechStream(str, Enum):
+    """Degree branch / stream (engineering, commerce, business, etc.)."""
+
     CS = "CS"
     IT = "IT"
     ECE = "ECE"
     EE = "EE"
+    MECHANICAL = "Mechanical"
+    CIVIL = "Civil"
+    COMMERCE = "Commerce"
+    BBA = "BBA"
 
 
 class CollegeTier(str, Enum):
@@ -65,6 +71,8 @@ class InterestArea(str, Enum):
     HARDWARE = "Hardware"
     ROBOTICS = "Robotics"
     BUSINESS_ANALYST = "Business Analyst"
+    FINANCE_ACCOUNTING = "Finance & Accounting"
+    DIGITAL_MARKETING = "Digital Marketing"
     OTHER = "Other"
 
 

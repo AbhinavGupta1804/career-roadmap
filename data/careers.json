@@ -777,6 +777,7 @@
       "name": "Business Analyst (Tech)",
       "interest_tags": [
         "Business Analyst",
+        "Finance & Accounting",
         "Data Science"
       ],
       "required_skills": [
@@ -1413,6 +1414,7 @@
       "name": "Digital Marketing Analyst",
       "interest_tags": [
         "Business Analyst",
+        "Digital Marketing",
         "Data Science"
       ],
       "required_skills": [
@@ -1548,6 +1550,7 @@
       "name": "FinTech Product Analyst",
       "interest_tags": [
         "Business Analyst",
+        "Finance & Accounting",
         "Data Science"
       ],
       "required_skills": [
@@ -2012,6 +2015,275 @@
       "ai_resilience_index": 0.76,
       "competition_level": "medium",
       "typical_months_to_job": 11,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "financial-analyst",
+      "name": "Financial Analyst",
+      "interest_tags": [
+        "Finance & Accounting",
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "Excel",
+        "Financial modeling",
+        "MIS reporting",
+        "Variance analysis",
+        "Accounting basics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.76,
+      "ai_resilience_index": 0.7,
+      "competition_level": "medium",
+      "typical_months_to_job": 8,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "accounts-executive",
+      "name": "Accounts Executive",
+      "interest_tags": [
+        "Finance & Accounting"
+      ],
+      "required_skills": [
+        "Tally/ERP",
+        "GST basics",
+        "Reconciliation",
+        "Excel",
+        "Voucher entry"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.82,
+      "ai_resilience_index": 0.58,
+      "competition_level": "medium",
+      "typical_months_to_job": 5,
+      "entry_difficulty": "low"
+    },
+    {
+      "slug": "tax-analyst",
+      "name": "Tax Analyst",
+      "interest_tags": [
+        "Finance & Accounting"
+      ],
+      "required_skills": [
+        "Income tax basics",
+        "GST",
+        "Excel",
+        "Compliance documentation",
+        "Research"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.7,
+      "ai_resilience_index": 0.65,
+      "competition_level": "medium",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "investment-banking-analyst",
+      "name": "Investment Banking Analyst (Junior)",
+      "interest_tags": [
+        "Finance & Accounting",
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "Excel",
+        "Valuation basics",
+        "Financial statements",
+        "Pitch decks",
+        "Research"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.62,
+      "ai_resilience_index": 0.72,
+      "competition_level": "high",
+      "typical_months_to_job": 12,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "equity-research-associate",
+      "name": "Equity Research Associate",
+      "interest_tags": [
+        "Finance & Accounting",
+        "Data Science"
+      ],
+      "required_skills": [
+        "Excel",
+        "Financial modeling",
+        "Sector research",
+        "Writing",
+        "Statistics basics"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.58,
+      "ai_resilience_index": 0.74,
+      "competition_level": "high",
+      "typical_months_to_job": 11,
+      "entry_difficulty": "high"
+    },
+    {
+      "slug": "credit-analyst",
+      "name": "Credit Analyst",
+      "interest_tags": [
+        "Finance & Accounting",
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "Credit appraisal",
+        "Excel",
+        "Financial ratios",
+        "Risk basics",
+        "Documentation"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.72,
+      "ai_resilience_index": 0.68,
+      "competition_level": "medium",
+      "typical_months_to_job": 9,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "management-trainee-fmcg",
+      "name": "Management Trainee (FMCG / Retail)",
+      "interest_tags": [
+        "Digital Marketing",
+        "Business Analyst"
+      ],
+      "required_skills": [
+        "Excel",
+        "Sales analytics",
+        "Distribution basics",
+        "Communication",
+        "Presentation"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.78,
+      "ai_resilience_index": 0.6,
+      "competition_level": "medium",
+      "typical_months_to_job": 6,
+      "entry_difficulty": "medium"
+    },
+    {
+      "slug": "chartered-accountant-trainee",
+      "name": "Chartered Accountant Trainee (Articleship)",
+      "interest_tags": [
+        "Finance & Accounting"
+      ],
+      "required_skills": [
+        "Accounting standards",
+        "Audit basics",
+        "Taxation",
+        "Excel",
+        "Documentation"
+      ],
+      "salary_bands": {
+        "tier_1": {
+          "min_lpa": 10,
+          "max_lpa": 22
+        },
+        "tier_2": {
+          "min_lpa": 5,
+          "max_lpa": 12
+        },
+        "tier_3": {
+          "min_lpa": 3,
+          "max_lpa": 7
+        }
+      },
+      "market_demand_index": 0.85,
+      "ai_resilience_index": 0.55,
+      "competition_level": "high",
+      "typical_months_to_job": 10,
       "entry_difficulty": "high"
     }
   ]

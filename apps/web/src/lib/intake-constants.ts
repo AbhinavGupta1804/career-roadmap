@@ -9,7 +9,19 @@ export const YEAR_OPTIONS = [
   "Gap year",
 ] as const;
 
-export const STREAM_OPTIONS = ["CS", "IT", "ECE", "EE"] as const;
+export const BRANCH_OPTIONS = [
+  "CS",
+  "IT",
+  "ECE",
+  "EE",
+  "Mechanical",
+  "Civil",
+  "Commerce",
+  "BBA",
+] as const;
+
+/** @deprecated Use BRANCH_OPTIONS */
+export const STREAM_OPTIONS = BRANCH_OPTIONS;
 
 export const COLLEGE_TIER_OPTIONS = [
   "Tier 1 (IIT/NIT/IIIT)",
@@ -38,6 +50,8 @@ export const INTEREST_OPTIONS: InterestArea[] = [
   "Hardware",
   "Robotics",
   "Business Analyst",
+  "Finance & Accounting",
+  "Digital Marketing",
   "Other",
 ];
 

@@ -8,6 +8,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
+from seed_commerce import (  # noqa: E402
+    COMMERCE_CAREERS,
+    COMMERCE_COMPANIES,
+    COMMERCE_RESOURCES,
+    COMMERCE_RISK,
+    commerce_jd_description,
+)
 from seed_expansion import (  # noqa: E402
     EXTRA_CAREERS,
     EXTRA_COMPANIES,
@@ -17,6 +24,7 @@ from seed_expansion import (  # noqa: E402
     cert_indices_for_role,
     merge_skill_snippets,
 )
+from seed_commerce import COMMERCE_JD_ROLES  # noqa: E402
 
 DATA = ROOT / "data"
 JDS = DATA / "jds"
@@ -45,7 +53,7 @@ CAREERS = [
     ("game-developer", "Game Developer", ["Game Dev"], ["C# or C++", "Unity/Unreal", "Game math", "Physics basics", "Git"], 0.60, 0.68, "medium", 10, "high"),
     ("robotics-software-engineer", "Robotics Software Engineer", ["Robotics", "Machine Learning"], ["Python", "C++", "ROS", "Kinematics basics", "Computer vision basics"], 0.62, 0.86, "medium", 11, "high"),
     ("technical-writer", "Technical Writer (Developer Docs)", ["Web Dev"], ["Writing", "Markdown", "API docs", "Developer tools", "Information architecture"], 0.55, 0.72, "low", 6, "medium"),
-    ("business-analyst-tech", "Business Analyst (Tech)", ["Business Analyst", "Data Science"], ["SQL", "Excel", "Requirements", "Process mapping", "Stakeholder communication"], 0.74, 0.76, "medium", 7, "medium"),
+    ("business-analyst-tech", "Business Analyst (Tech)", ["Business Analyst", "Finance & Accounting", "Data Science"], ["SQL", "Excel", "Requirements", "Process mapping", "Stakeholder communication"], 0.74, 0.76, "medium", 7, "medium"),
     ("database-administrator", "Database Administrator", ["Cloud/DevOps", "Data Science"], ["SQL", "PostgreSQL/MySQL", "Backup/restore", "Performance tuning", "Security"], 0.68, 0.74, "medium", 9, "medium"),
     ("network-engineer", "Network Engineer", ["Cybersecurity", "Hardware"], ["Networking", "Routing/Switching", "Firewalls", "Linux", "Monitoring"], 0.66, 0.70, "medium", 9, "high"),
     ("solutions-engineer", "Solutions Engineer", ["Web Dev", "Product Management"], ["SQL", "APIs", "Presentation", "Debugging", "Customer discovery"], 0.70, 0.83, "medium", 8, "medium"),
@@ -62,7 +70,7 @@ CAREERS = [
     ("generic-seo-writer", "Generic SEO Content Mill Writer", ["Marketing", "Web Dev"], ["SEO templates", "Surfer/Clearscope basics", "WordPress", "Plagiarism tools"], 0.28, 0.10, "high", 3, "low"),
     ("microstock-design-seller", "Microstock / Fiverr Logo Seller", ["UI/UX Design", "Marketing"], ["Canva", "Stock templates", "Basic Illustrator", "Client chat"], 0.22, 0.06, "high", 3, "low"),
     ("data-entry-operator", "Data Entry Operator", ["Business Analyst", "Hardware"], ["Typing speed", "Excel", "Accuracy", "Basic English"], 0.20, 0.05, "low", 3, "low"),
-] + EXTRA_CAREERS
+] + EXTRA_CAREERS + COMMERCE_CAREERS
 
 # Low salary bands for tier 4/5 roles
 LOW_SALARY_SLUGS = {
@@ -166,6 +174,7 @@ RISK = {
         ["SQL", "Python automation", "Excel power-user skills"],
     ),
     **EXTRA_RISK,
+    **COMMERCE_RISK,
 }
 
 TIER_DEFS = {
@@ -176,7 +185,7 @@ TIER_DEFS = {
     "5": {"label": "Sunset", "description": "Wiped out for freshers within ~5 years."},
 }
 
-COMPANIES = EXTRA_COMPANIES
+COMPANIES = list(dict.fromkeys(EXTRA_COMPANIES + COMMERCE_COMPANIES))
 CITIES = ["Bangalore", "Hyderabad", "Pune", "Mumbai", "Gurgaon", "Chennai", "Remote", "Noida", "Kochi"]
 
 SKILL_SNIPPETS = merge_skill_snippets({
@@ -274,6 +283,14 @@ def main() -> None:
                 if certs
                 else ""
             )
+            if role in COMMERCE_JD_ROLES:
+                description = commerce_jd_description(role, skills, cert_clause)
+            else:
+                description = (
+                    f"Fresher {role.replace('-', ' ')} role. Work with cross-functional teams. "
+                    f"Must know {', '.join(skills[:4])}. Portfolio or internships preferred."
+                    f"{cert_clause}"
+                )
             jds.append({
                 "id": f"{role}-{i+1:02d}",
                 "role_slug": role,
@@ -281,11 +298,7 @@ def main() -> None:
                 "company": COMPANIES[i % len(COMPANIES)],
                 "location": CITIES[i % len(CITIES)],
                 "experience_level": "fresher",
-                "description": (
-                    f"Fresher {role.replace('-', ' ')} role. Work with cross-functional teams. "
-                    f"Must know {', '.join(skills[:4])}. Portfolio or internships preferred."
-                    f"{cert_clause}"
-                ),
+                "description": description,
                 "skills_mentioned": skills,
                 "certifications_mentioned": certs,
             })
@@ -356,7 +369,7 @@ def _build_resources() -> dict:
         ("r-rag-001", "DeepLearning.AI LangChain short courses", "https://www.deeplearning.ai/short-courses/", "course", "free", 0, 6, ["LLM applications", "RAG"], "DeepLearning.AI"),
         ("r-port-001", "GitHub Pages Docs", "https://docs.github.com/en/pages", "doc", "free", 0, 2, ["Git", "Portfolio"], "GitHub"),
         ("r-comm-001", "Technical communication for engineers", "https://www.coursera.org/learn/communication-skills-engineers", "course", "free", 0, 10, ["Communication"], "Coursera"),
-    ]
+    ] + list(COMMERCE_RESOURCES)
     return {
         "version": "2026.1",
         "resources": [

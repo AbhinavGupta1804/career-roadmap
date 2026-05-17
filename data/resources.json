@@ -646,6 +646,146 @@
         "Communication"
       ],
       "provider": "Coursera"
+    },
+    {
+      "id": "r-fin-001",
+      "title": "Corporate Finance Institute \u2014 Excel for Finance (free modules)",
+      "url": "https://corporatefinanceinstitute.com/",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 15,
+      "skills_taught": [
+        "Excel",
+        "Financial modeling"
+      ],
+      "provider": "CFI"
+    },
+    {
+      "id": "r-fin-002",
+      "title": "Khan Academy \u2014 Finance & capital markets",
+      "url": "https://www.khanacademy.org/economics-finance-domain/core-finance",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 20,
+      "skills_taught": [
+        "Accounting basics",
+        "Finance"
+      ],
+      "provider": "Khan Academy"
+    },
+    {
+      "id": "r-fin-003",
+      "title": "NPTEL \u2014 Financial Accounting",
+      "url": "https://onlinecourses.nptel.ac.in/",
+      "type": "course",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 40,
+      "skills_taught": [
+        "Accounting",
+        "Finance & Accounting"
+      ],
+      "provider": "NPTEL"
+    },
+    {
+      "id": "r-fin-004",
+      "title": "Google Digital Marketing & E-commerce Certificate",
+      "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce",
+      "type": "course",
+      "cost": "paid",
+      "cost_inr_max": 2500,
+      "hours": 60,
+      "skills_taught": [
+        "Digital Marketing",
+        "Google Analytics"
+      ],
+      "provider": "Coursera"
+    },
+    {
+      "id": "r-fin-005",
+      "title": "TallyPrime learning (official)",
+      "url": "https://tallysolutions.com/tally-prime/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 12,
+      "skills_taught": [
+        "Tally",
+        "GST"
+      ],
+      "provider": "Tally"
+    },
+    {
+      "id": "r-fin-006",
+      "title": "NSE Academy \u2014 financial markets basics",
+      "url": "https://www.nseindia.com/learn",
+      "type": "course",
+      "cost": "paid",
+      "cost_inr_max": 1500,
+      "hours": 25,
+      "skills_taught": [
+        "Finance",
+        "Markets"
+      ],
+      "provider": "NSE"
+    },
+    {
+      "id": "r-fin-007",
+      "title": "ICAI CA Foundation syllabus overview",
+      "url": "https://www.icai.org/post.html?post_id=16418",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 30,
+      "skills_taught": [
+        "Accounting",
+        "Taxation"
+      ],
+      "provider": "ICAI"
+    },
+    {
+      "id": "r-fin-008",
+      "title": "ExcelIsFun \u2014 Excel for accounting playlists",
+      "url": "https://www.youtube.com/c/ExcelIsFun",
+      "type": "video",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 10,
+      "skills_taught": [
+        "Excel",
+        "Accounting"
+      ],
+      "provider": "YouTube"
+    },
+    {
+      "id": "r-fin-009",
+      "title": "IIBA ECBA \u2014 business analysis fundamentals",
+      "url": "https://www.iiba.org/certifications/ecba/",
+      "type": "doc",
+      "cost": "paid",
+      "cost_inr_max": 15000,
+      "hours": 40,
+      "skills_taught": [
+        "Business Analyst",
+        "Requirements"
+      ],
+      "provider": "IIBA"
+    },
+    {
+      "id": "r-fin-010",
+      "title": "GST portal \u2014 learning resources",
+      "url": "https://tutorial.gst.gov.in/",
+      "type": "doc",
+      "cost": "free",
+      "cost_inr_max": 0,
+      "hours": 8,
+      "skills_taught": [
+        "GST",
+        "Compliance"
+      ],
+      "provider": "GSTN"
     }
   ]
 }

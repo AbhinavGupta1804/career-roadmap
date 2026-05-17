@@ -7,7 +7,7 @@ import { ZodError } from "zod";
 import { StepAssessment } from "@/components/intake/step-assessment";
 import { StepProfile } from "@/components/intake/step-profile";
 import { StepSkills } from "@/components/intake/step-skills";
-import { startPlan, submitIntake } from "@/lib/api";
+import { submitIntake } from "@/lib/api";
 import {
   clearDraft,
   defaultDraft,
@@ -95,9 +95,8 @@ export function IntakeWizard() {
     try {
       const form = intakeFormSchema.parse(draftToIntakeForm(draft));
       const created = await submitIntake(form);
-      const plan = await startPlan(created.submission_id);
       clearDraft();
-      router.push(`/plan/${plan.plan_id}`);
+      router.push(`/intake/launch/${created.submission_id}`);
     } catch (e) {
       setSubmitError(
         e instanceof Error ? e.message : "Failed to submit. Try again.",
@@ -201,7 +200,7 @@ export function IntakeWizard() {
             disabled={submitting}
             className="inline-flex h-11 items-center justify-center rounded-full bg-violet-600 px-8 text-sm font-medium text-white hover:bg-violet-500 disabled:opacity-60"
           >
-            {submitting ? "Building your roadmap…" : "Generate my mission plan"}
+            {submitting ? "Opening mission control…" : "Generate my mission plan"}
           </button>
         )}
       </div>

@@ -958,6 +958,150 @@
         "C",
         "Functional safety basics"
       ]
+    },
+    "financial-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Manual spreadsheet formatting",
+        "Basic chart exports"
+      ],
+      "amplifies": [
+        "Forecasting judgment",
+        "Business partnering",
+        "MIS design"
+      ],
+      "evolved_role_2029": "FP&A / Business Finance Partner",
+      "survival_skills": [
+        "Financial modeling",
+        "Storytelling with data",
+        "ERP literacy"
+      ]
+    },
+    "accounts-executive": {
+      "tier": 3,
+      "replaces": [
+        "Routine voucher entry",
+        "Simple reconciliations"
+      ],
+      "amplifies": [
+        "Month-end close",
+        "Process controls",
+        "Exception handling"
+      ],
+      "evolved_role_2029": "Finance Operations Specialist",
+      "survival_skills": [
+        "ERP workflows",
+        "GST compliance",
+        "Automation in Excel"
+      ]
+    },
+    "tax-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Form-filling busywork",
+        "Generic notice replies"
+      ],
+      "amplifies": [
+        "Interpretation",
+        "Litigation support prep",
+        "Cross-border awareness"
+      ],
+      "evolved_role_2029": "Tax Advisory Associate",
+      "survival_skills": [
+        "Research",
+        "Documentation",
+        "Regulatory updates"
+      ]
+    },
+    "investment-banking-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Slide formatting only",
+        "Data room housekeeping"
+      ],
+      "amplifies": [
+        "Deal judgment",
+        "Valuation",
+        "Client communication"
+      ],
+      "evolved_role_2029": "Investment Banking Associate",
+      "survival_skills": [
+        "Modeling",
+        "Sector expertise",
+        "Resilience under deadlines"
+      ]
+    },
+    "equity-research-associate": {
+      "tier": 2,
+      "replaces": [
+        "Template report drafting",
+        "Data copying from filings"
+      ],
+      "amplifies": [
+        "Thesis building",
+        "Channel checks",
+        "Risk framing"
+      ],
+      "evolved_role_2029": "Senior Equity Research Analyst",
+      "survival_skills": [
+        "Modeling",
+        "Writing",
+        "Sector depth"
+      ]
+    },
+    "credit-analyst": {
+      "tier": 2,
+      "replaces": [
+        "Checklist data entry",
+        "Standard ratio calculators"
+      ],
+      "amplifies": [
+        "Underwriting judgment",
+        "Sector risk",
+        "Portfolio monitoring"
+      ],
+      "evolved_role_2029": "Credit Risk Manager",
+      "survival_skills": [
+        "Financial analysis",
+        "Regulatory awareness",
+        "Communication"
+      ]
+    },
+    "management-trainee-fmcg": {
+      "tier": 2,
+      "replaces": [
+        "Basic sales reporting",
+        "Route plan paperwork"
+      ],
+      "amplifies": [
+        "Trade marketing",
+        "Category analytics",
+        "Leadership pipeline"
+      ],
+      "evolved_role_2029": "Brand / Category Manager",
+      "survival_skills": [
+        "Excel",
+        "Field execution",
+        "Stakeholder management"
+      ]
+    },
+    "chartered-accountant-trainee": {
+      "tier": 2,
+      "replaces": [
+        "Tick-and-tie busywork",
+        "Standard working papers"
+      ],
+      "amplifies": [
+        "Audit judgment",
+        "Advisory mindset",
+        "Ethics"
+      ],
+      "evolved_role_2029": "Chartered Accountant (Corporate / Advisory)",
+      "survival_skills": [
+        "Standards depth",
+        "Communication",
+        "Technology in audit"
+      ]
     }
   }
 }

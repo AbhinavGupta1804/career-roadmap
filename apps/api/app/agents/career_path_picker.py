@@ -10,7 +10,7 @@ from dataclasses import dataclass
 
 from app.schemas.agents import CareerPathPickerOutput, CareerTrack, TrackType
 from app.schemas.data_models import CareerEntry
-from app.schemas.intake import CollegeTier, IntakeForm, SkillRating
+from app.schemas.intake import CollegeTier, IntakeForm, SkillRating, TechStream
 from app.services import data_registry
 
 # Brief weights
@@ -28,6 +28,13 @@ RATING_LEVEL: dict[str, float] = {
 
 COMPETITION_ORDER = {"low": 0, "medium": 1, "high": 2}
 DIFFICULTY_ORDER = {"low": 0, "medium": 1, "high": 2}
+
+COMMERCE_STREAMS = {TechStream.COMMERCE.value, TechStream.BBA.value}
+BUSINESS_INTEREST_TAGS = {
+    "Business Analyst",
+    "Finance & Accounting",
+    "Digital Marketing",
+}
 
 HIRING_COMPANIES = {
     "default": ["Razorpay", "Swiggy", "Zoho", "Freshworks", "PhonePe"],
@@ -141,6 +148,16 @@ def _realistic_for_profile(intake: IntakeForm, career: CareerEntry) -> float:
     return max(0.0, min(1.0, score))
 
 
+def _stream_career_boost(intake: IntakeForm, career: CareerEntry) -> float:
+    """Nudge commerce/BBA students toward analyst and business-facing roles."""
+    if intake.profile.stream.value not in COMMERCE_STREAMS:
+        return 0.0
+    tags = set(career.interest_tags)
+    if tags & BUSINESS_INTEREST_TAGS:
+        return 0.08
+    return 0.0
+
+
 def _compute_fit(intake: IntakeForm, career: CareerEntry) -> ScoredCareer:
     skill = _skill_match(intake, career)
     interest = _interest_alignment(intake, career)
@@ -154,6 +171,7 @@ def _compute_fit(intake: IntakeForm, career: CareerEntry) -> ScoredCareer:
         + demand * W_DEMAND
         + resilience * W_AI_RESILIENCE
         + realistic * W_REALISTIC
+        + _stream_career_boost(intake, career)
     )
 
     return ScoredCareer(

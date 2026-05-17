@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Career Roadmap",
+  title: "Career Roadmap — AI career squad for Indian freshers",
   description:
-    "AI-powered career roadmap for Indian students and freshers in tech streams.",
+    "12-month skill-to-job roadmap for Indian students in engineering, commerce, and business. Seven AI agents, three tracks, weekly mission plan.",
 };
 
 export default function RootLayout({

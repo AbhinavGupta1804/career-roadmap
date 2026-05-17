@@ -9,7 +9,16 @@ export const yearOfStudySchema = z.enum([
   "Gap year",
 ]);
 
-export const techStreamSchema = z.enum(["CS", "IT", "ECE", "EE"]);
+export const techStreamSchema = z.enum([
+  "CS",
+  "IT",
+  "ECE",
+  "EE",
+  "Mechanical",
+  "Civil",
+  "Commerce",
+  "BBA",
+]);
 
 export const collegeTierSchema = z.enum([
   "Tier 1 (IIT/NIT/IIIT)",
@@ -41,6 +50,8 @@ export const interestAreaSchema = z.enum([
   "Hardware",
   "Robotics",
   "Business Analyst",
+  "Finance & Accounting",
+  "Digital Marketing",
   "Other",
 ]);
 

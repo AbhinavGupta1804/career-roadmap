@@ -4,6 +4,7 @@ import { useCallback, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 
 import { AgentReel } from "@/components/plan/agent-reel";
+import { MissionLaunch } from "@/components/plan/mission-launch";
 import { MissionPlanDashboard } from "@/components/plan/mission-plan-dashboard";
 import { TrackSelection } from "@/components/plan/track-selection";
 import {
@@ -109,38 +110,6 @@ export function PlanFlow({ routeId }: PlanFlowProps) {
   }, [routeId, resolvePlan, applyPlan, router]);
 
   useEffect(() => {
-    if (phase !== "starting") return;
-
-    let cancelled = false;
-    const intakeId = plan?.intake_id ?? routeId;
-
-    async function runStart() {
-      setError(null);
-      try {
-        const updated = await startPlan(intakeId);
-        if (!cancelled) {
-          if (updated.plan_id !== routeId) {
-            router.replace(`/plan/${updated.plan_id}`);
-          }
-          applyPlan(updated);
-        }
-      } catch (e) {
-        if (!cancelled) {
-          setError(
-            e instanceof Error ? e.message : "Failed to analyze careers",
-          );
-          setPhase("error");
-        }
-      }
-    }
-
-    void runStart();
-    return () => {
-      cancelled = true;
-    };
-  }, [phase, plan?.intake_id, routeId, applyPlan, router]);
-
-  useEffect(() => {
     // Only poll after a page reload mid-generation — not during our own PATCH call.
     if (
       phase !== "generating" ||
@@ -197,17 +166,16 @@ export function PlanFlow({ routeId }: PlanFlowProps) {
     }
   }
 
-  if (phase === "loading" || phase === "starting") {
+  if (phase === "starting") {
+    return <MissionLaunch intakeId={plan?.intake_id ?? routeId} />;
+  }
+
+  if (phase === "loading") {
     return (
       <div className="flex flex-col items-center justify-center py-20 text-center">
         <div className="h-10 w-10 animate-spin rounded-full border-2 border-violet-600 border-t-transparent" />
         <p className="mt-4 text-sm font-medium text-zinc-700 dark:text-zinc-300">
-          {phase === "starting"
-            ? "Agents 1 & 2: picking your 3 career paths…"
-            : "Loading your mission plan…"}
-        </p>
-        <p className="mt-1 text-xs text-zinc-500">
-          Usually under 10 seconds in mock mode
+          Loading your mission plan…
         </p>
       </div>
     );

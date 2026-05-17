@@ -7,7 +7,17 @@ import {
   isSupabaseAuthConfigured,
 } from "@/lib/supabase/client";
 
-export function AuthButton() {
+const btnClass = {
+  default:
+    "rounded-full border border-zinc-300 px-3 py-1.5 text-xs font-medium text-zinc-700 hover:bg-zinc-50 dark:border-zinc-700 dark:text-zinc-300",
+  dark: "rounded-full border border-white/15 px-3 py-1.5 text-xs font-medium text-zinc-300 hover:bg-white/10",
+} as const;
+
+export function AuthButton({
+  variant = "default",
+}: {
+  variant?: keyof typeof btnClass;
+}) {
   const [email, setEmail] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
 
@@ -61,14 +71,16 @@ export function AuthButton() {
   if (email) {
     return (
       <div className="flex items-center gap-2">
-        <span className="hidden max-w-[140px] truncate text-xs text-zinc-500 sm:inline">
+        <span
+          className={`hidden max-w-[140px] truncate text-xs sm:inline ${variant === "dark" ? "text-zinc-400" : "text-zinc-500"}`}
+        >
           {email}
         </span>
         <button
           type="button"
           onClick={() => void signOut()}
           disabled={loading}
-          className="rounded-full border border-zinc-300 px-3 py-1.5 text-xs font-medium text-zinc-700 hover:bg-zinc-50 dark:border-zinc-700 dark:text-zinc-300"
+          className={btnClass[variant]}
         >
           Sign out
         </button>
@@ -81,7 +93,7 @@ export function AuthButton() {
       type="button"
       onClick={() => void signInWithGoogle()}
       disabled={loading}
-      className="rounded-full border border-zinc-300 px-3 py-1.5 text-xs font-medium text-zinc-700 hover:bg-zinc-50 dark:border-zinc-700 dark:text-zinc-300"
+      className={btnClass[variant]}
     >
       {loading ? "…" : "Sign in with Google"}
     </button>

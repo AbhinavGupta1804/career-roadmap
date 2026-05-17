@@ -1,6 +1,8 @@
-"""Additional careers and JD generation helpers for 60 careers / 20×50 JDs."""
+"""Additional careers and JD generation helpers (60+ careers, 26×50 JDs with commerce)."""
 
 from __future__ import annotations
+
+from seed_commerce import COMMERCE_CERT_TEMPLATES, COMMERCE_JD_ROLES, COMMERCE_SKILL_SNIPPETS
 
 # 22 careers → 38 + 22 = 60
 EXTRA_CAREERS = [
@@ -8,11 +10,11 @@ EXTRA_CAREERS = [
     ("ar-vr-developer", "AR/VR Developer", ["Game Dev", "Web Dev"], ["Unity", "C#", "3D math", "UX for spatial apps", "Git"], 0.52, 0.75, "medium", 11, "high"),
     ("salesforce-developer", "Salesforce Developer", ["Web Dev", "Business Analyst"], ["Apex", "Lightning", "CRM workflows", "SQL", "Integration APIs"], 0.72, 0.68, "medium", 8, "medium"),
     ("sap-functional-consultant", "SAP Functional Consultant", ["Business Analyst"], ["SAP modules", "Business process", "Requirements", "Testing", "Stakeholder mgmt"], 0.65, 0.55, "medium", 9, "medium"),
-    ("digital-marketing-analyst", "Digital Marketing Analyst", ["Business Analyst", "Data Science"], ["Google Analytics", "SQL", "Excel", "A/B testing", "Campaign reporting"], 0.78, 0.62, "medium", 6, "medium"),
+    ("digital-marketing-analyst", "Digital Marketing Analyst", ["Business Analyst", "Digital Marketing", "Data Science"], ["Google Analytics", "SQL", "Excel", "A/B testing", "Campaign reporting"], 0.78, 0.62, "medium", 6, "medium"),
     ("growth-marketer-tech", "Growth Marketer (Tech)", ["Web Dev", "Product Management"], ["Funnels", "SQL", "Experimentation", "Copywriting", "Product analytics"], 0.70, 0.70, "medium", 7, "medium"),
     ("supply-chain-analyst", "Supply Chain Analyst", ["Business Analyst", "Data Science"], ["Excel", "SQL", "Forecasting", "Operations research", "Dashboards"], 0.68, 0.65, "medium", 7, "medium"),
     ("hr-tech-analyst", "HR Tech Analyst", ["Business Analyst"], ["HRIS systems", "SQL", "Excel", "People analytics", "Process design"], 0.64, 0.60, "low", 7, "medium"),
-    ("fintech-analyst", "FinTech Product Analyst", ["Business Analyst", "Data Science"], ["SQL", "Payments", "Risk basics", "Regulatory awareness", "Dashboards"], 0.75, 0.78, "medium", 8, "medium"),
+    ("fintech-analyst", "FinTech Product Analyst", ["Business Analyst", "Finance & Accounting", "Data Science"], ["SQL", "Payments", "Risk basics", "Regulatory awareness", "Dashboards"], 0.75, 0.78, "medium", 8, "medium"),
     ("quantitative-analyst", "Quantitative Analyst (Junior)", ["Data Science", "Machine Learning"], ["Python", "Statistics", "Time series", "SQL", "Probability"], 0.58, 0.82, "high", 12, "high"),
     ("bi-developer", "BI Developer", ["Data Science", "Business Analyst"], ["Power BI", "SQL", "DAX", "Data modeling", "ETL basics"], 0.80, 0.74, "medium", 7, "medium"),
     ("etl-developer", "ETL Developer", ["Data Science", "Cloud/DevOps"], ["SQL", "Python", "Airflow", "Data modeling", "Cloud storage"], 0.76, 0.80, "medium", 8, "medium"),
@@ -76,7 +78,7 @@ JD_ROLES = [
     "solutions-engineer",
     "bi-developer",
     "platform-engineer",
-]
+] + COMMERCE_JD_ROLES
 
 EXTRA_COMPANIES = [
     "Razorpay", "Swiggy", "Flipkart", "Zoho", "Freshworks", "PhonePe", "CRED", "Meesho",
@@ -186,6 +188,7 @@ ROLE_CERT_TEMPLATES: dict[str, list[tuple[str, float]]] = {
         ("CKA: Certified Kubernetes Administrator", 0.50),
         ("AWS Certified Cloud Practitioner", 0.60),
     ],
+    **COMMERCE_CERT_TEMPLATES,
 }
 
 
@@ -206,4 +209,5 @@ def cert_indices_for_role(role: str, jd_count: int) -> list[tuple[str, list[int]
 def merge_skill_snippets(base: dict[str, list[str]]) -> dict[str, list[str]]:
     merged = dict(base)
     merged.update(EXTRA_SKILL_SNIPPETS)
+    merged.update(COMMERCE_SKILL_SNIPPETS)
     return merged

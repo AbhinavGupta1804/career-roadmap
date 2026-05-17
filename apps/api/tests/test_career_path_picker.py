@@ -31,6 +31,7 @@ from app.schemas.intake import (
 
 def _intake(
     *,
+    stream: TechStream = TechStream.CS,
     interests: list[InterestArea] | None = None,
     commitment: int = 7,
     skills: list[tuple[str, SkillRating]] | None = None,
@@ -38,7 +39,7 @@ def _intake(
     return IntakeForm(
         profile=ProfileBasics(
             year_of_study=YearOfStudy.THIRD,
-            stream=TechStream.CS,
+            stream=stream,
             college_tier=CollegeTier.TIER_2,
             cgpa_band=CgpaBand.BAND_7_5_8_5,
             city="Pune",
@@ -101,6 +102,34 @@ def test_exclude_slugs_removes_careers() -> None:
     slug = base.tracks[0].career_slug
     excluded = build_tracks(intake, exclude_slugs={slug})
     assert slug not in {t.career_slug for t in excluded.tracks}
+
+
+def test_commerce_branch_in_intake_schema() -> None:
+    intake = _intake(
+        stream=TechStream.COMMERCE,
+        interests=[
+            InterestArea.FINANCE_ACCOUNTING,
+            InterestArea.BUSINESS_ANALYST,
+            InterestArea.DIGITAL_MARKETING,
+        ],
+        skills=[("Excel", SkillRating.SOLO), ("SQL", SkillRating.WITH_HELP)],
+    )
+    assert intake.profile.stream == TechStream.COMMERCE
+
+
+def test_commerce_student_pool_includes_business_roles() -> None:
+    intake = _intake(
+        stream=TechStream.COMMERCE,
+        interests=[
+            InterestArea.FINANCE_ACCOUNTING,
+            InterestArea.BUSINESS_ANALYST,
+            InterestArea.DIGITAL_MARKETING,
+        ],
+        skills=[("Excel", SkillRating.SOLO), ("SQL", SkillRating.WITH_HELP)],
+    )
+    pool = build_candidate_pool(intake)
+    slugs = {s.career.slug for s in pool}
+    assert "business-analyst-tech" in slugs or "digital-marketing-analyst" in slugs
 
 
 def test_runner_agent1_validates() -> None:

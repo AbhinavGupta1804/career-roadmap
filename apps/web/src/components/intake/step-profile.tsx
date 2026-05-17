@@ -6,7 +6,7 @@ import {
   COLLEGE_TIER_OPTIONS,
   HOURS_OPTIONS,
   RELOCATION_OPTIONS,
-  STREAM_OPTIONS,
+  BRANCH_OPTIONS,
   YEAR_OPTIONS,
 } from "@/lib/intake-constants";
 import type { ProfileBasics } from "@/lib/schemas/intake";
@@ -44,15 +44,15 @@ export function StepProfile({ value, errors, onChange }: Props) {
         </SelectInput>
       </Field>
 
-      <Field label="Stream" error={errors.stream}>
+      <Field label="Branch / degree" error={errors.stream}>
         <SelectInput
           value={value.stream ?? ""}
           onChange={(e) =>
             onChange({ stream: e.target.value as ProfileBasics["stream"] })
           }
         >
-          <option value="">Select stream</option>
-          {STREAM_OPTIONS.map((s) => (
+          <option value="">Select branch</option>
+          {BRANCH_OPTIONS.map((s) => (
             <option key={s} value={s}>
               {s}
             </option>

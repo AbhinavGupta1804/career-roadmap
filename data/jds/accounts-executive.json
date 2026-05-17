@@ -1,0 +1,988 @@
+{
+  "role_slug": "accounts-executive",
+  "role_name": "Accounts Executive",
+  "jds": [
+    {
+      "id": "accounts-executive-01",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-02",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-03",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-04",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-05",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-06",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-07",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-08",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-09",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-10",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-11",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-12",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-13",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-14",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-15",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-16",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-17",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-18",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-19",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-20",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-21",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-22",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification, GST practitioner awareness course.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification",
+        "GST practitioner awareness course"
+      ]
+    },
+    {
+      "id": "accounts-executive-23",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification"
+      ]
+    },
+    {
+      "id": "accounts-executive-24",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification"
+      ]
+    },
+    {
+      "id": "accounts-executive-25",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification"
+      ]
+    },
+    {
+      "id": "accounts-executive-26",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification"
+      ]
+    },
+    {
+      "id": "accounts-executive-27",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification"
+      ]
+    },
+    {
+      "id": "accounts-executive-28",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification"
+      ]
+    },
+    {
+      "id": "accounts-executive-29",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification"
+      ]
+    },
+    {
+      "id": "accounts-executive-30",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred. Preferred certifications: Tally ERP certification.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": [
+        "Tally ERP certification"
+      ]
+    },
+    {
+      "id": "accounts-executive-31",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-32",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-33",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-34",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-35",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-36",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-37",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-38",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-39",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-40",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-41",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-42",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-43",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-44",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-45",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-46",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-47",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-48",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-49",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "accounts-executive-50",
+      "role_slug": "accounts-executive",
+      "title": "Accounts Executive",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Accounts Executive for AP/AR and month-end support. Daily vouchers, reconciliations, and GST documentation. Tally, GST, Reconciliation, Excel required; articleship students welcome. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Tally",
+        "GST",
+        "Reconciliation",
+        "Excel",
+        "ERP",
+        "Voucher entry"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}

@@ -1,0 +1,948 @@
+{
+  "role_slug": "supply-chain-analyst",
+  "role_name": "Supply Chain Analyst",
+  "jds": [
+    {
+      "id": "supply-chain-analyst-01",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Razorpay",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-02",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Swiggy",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-03",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Flipkart",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-04",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Zoho",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-05",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Freshworks",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-06",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "PhonePe",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-07",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "CRED",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-08",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Meesho",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-09",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Groww",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-10",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Postman",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-11",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Paytm",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-12",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Ola",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: APICS CSCP fundamentals (awareness), Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "APICS CSCP fundamentals (awareness)",
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-13",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Zomato",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-14",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Nykaa",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-15",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "ShareChat",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred. Preferred certifications: Six Sigma Yellow Belt.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": [
+        "Six Sigma Yellow Belt"
+      ]
+    },
+    {
+      "id": "supply-chain-analyst-16",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Dream11",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-17",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Lenskart",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-18",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Delhivery",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-19",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Udaan",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-20",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Policybazaar",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-21",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Rivigo",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-22",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "BrowserStack",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-23",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Chargebee",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-24",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "CleverTap",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-25",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Druva",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-26",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "ElasticRun",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-27",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Eruditus",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-28",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Games24x7",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-29",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Gupshup",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-30",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "HackerRank",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-31",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "InMobi",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-32",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Juspay",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-33",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Licious",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-34",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Mamaearth",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-35",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Mindtickle",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-36",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Moglix",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-37",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Navi",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-38",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "OfBusiness",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-39",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Porter",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-40",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Practo",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-41",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Purplle",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-42",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Rapido",
+      "location": "Chennai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-43",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Slice",
+      "location": "Remote",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-44",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Spinny",
+      "location": "Noida",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-45",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Tata 1mg",
+      "location": "Kochi",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-46",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Unacademy",
+      "location": "Bangalore",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-47",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Vedantu",
+      "location": "Hyderabad",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-48",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Wakefit",
+      "location": "Pune",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-49",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Whatfix",
+      "location": "Mumbai",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    },
+    {
+      "id": "supply-chain-analyst-50",
+      "role_slug": "supply-chain-analyst",
+      "title": "Supply Chain Analyst",
+      "company": "Yubi",
+      "location": "Gurgaon",
+      "experience_level": "fresher",
+      "description": "Fresher Supply Chain Analyst for demand planning and inventory. Work on forecasts, OTIF dashboards, and vendor coordination. Excel, SQL, Forecasting, Inventory planning required; operations internship preferred. Portfolio or internships preferred.",
+      "skills_mentioned": [
+        "Excel",
+        "SQL",
+        "Forecasting",
+        "Inventory planning",
+        "Operations",
+        "Dashboards"
+      ],
+      "certifications_mentioned": []
+    }
+  ]
+}
